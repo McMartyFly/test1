@@ -11,6 +11,18 @@
     <body>
         <div class="wr rogue">
             <p>Rogue here</p>
+            
+            <div class="hp-calc">
+                <div class="total-hp">
+                    <p class="total"></p>
+                </div>
+                <div class="less-hp">
+                    <p class="icon">-</p>
+                </div>
+                <div class="more-hp">
+                    <p class="icon">+</p>
+                </div>
+            </div>
         </div>
     </body>
 </html>
