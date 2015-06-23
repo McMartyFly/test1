@@ -19,14 +19,21 @@ body {
                     height: 100px;
                     width: 50%;
                     p {
+                        font-family: arial, helvetica, sans-serif;
                         font-size: 16px;
+                        font-weight: bold;
+                        padding: 5px 0;
                         text-align: center;
+                        text-transform: uppercase;
                     }
-                    input {
+                    select {
+                        background-color: #000;
+                        color: #ff0000;
                         display: block;
+                        font-size: 50px;
                         margin: 0 auto;
-                        width: 90%;
                     }
+                    
                 }
                 .thp-wrap {
                     
@@ -34,10 +41,21 @@ body {
                     float: left;
                     height: 100px;
                     width: 50%;
-                    input {
+                    
+                    p {
+                        font-family: arial, helvetica, sans-serif;
+                        font-weight: bold;
+                        font-size: 16px;
+                        padding: 5px 0;
+                        text-align: center;
+                        text-transform: uppercase;
+                    }
+                    select {
+                        background-color: #000;
+                        color: #99CCFF;
                         display: block;
+                        font-size: 50px;
                         margin: 0 auto;
-                        width: 90%;
                     }
                 }
             }
@@ -93,7 +111,7 @@ body {
                         height: 20px;
                         
                         .ss-desc {
-                            font-size: 11px;
+                            font-size: 10px;
                             text-align: right;
                             
                             span {
@@ -175,6 +193,7 @@ body {
             }
             &.barbarian {
                 background-color: #fff;
+                font-family: arial, helvetica, sans-serif;
                 width: 100%;
                 
                 p {
@@ -183,6 +202,7 @@ body {
             }
             &.monk {
                 background-color: #fff;
+                font-family: arial, helvetica, sans-serif;
                 width: 100%;
                 
                 p {
@@ -191,6 +211,7 @@ body {
             }
             &.ranger {
                 background-color: #fff;
+                font-family: arial, helvetica, sans-serif;
                 width: 100%;
                 
                 p {
@@ -199,6 +220,7 @@ body {
             }
             &.rogue {
                 background-color: #fff;
+                font-family: arial, helvetica, sans-serif;
                 width: 100%;
                 
                 p {
