@@ -132,6 +132,7 @@ body {
                             
                             span {
                                 display: inline-block;
+                                font-size: 13px;
                                 font-weight: bold;
                                 padding: 0 10px 0 10px;
                             }
@@ -152,6 +153,7 @@ body {
                             text-transform: uppercase;
                         }
                         .stat-val {
+                            padding: 5px 0 0 0;
                             text-align: center;
                         }
                     }

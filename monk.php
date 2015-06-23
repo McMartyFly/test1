@@ -6,7 +6,7 @@
         <script type="text/javascript" src="/js/app.js"></script>
         <title></title>
         
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1" user-scalable="no">
     </head>
     <body>
         <div class="wr monk">
