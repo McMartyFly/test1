@@ -1,0 +1,53 @@
+body {
+    
+    .wr {
+        margin: 0 auto;
+        &.class-selection {
+            background-color: #fff;
+            width: 100%;
+            p {
+                font-size: 30px;
+                padding: 20px 0;
+                text-align: center;
+            }
+            a {
+                border-radius: 10px;
+                display: block;
+                font-size: 45px;
+                margin: 20px auto;
+                padding: 25px 0;
+                text-align: center;
+                text-decoration: none;
+                text-transform: uppercase;
+                width: 300px;
+                
+                &.barbarian {
+                    background-color: #b26b00;
+                    color: #FF704D;
+                    font-family: arial, helvetica, sans-serif;
+                    font-weight: bold;
+                    
+                }
+                &.monk {
+                    background-color: #fff0b2;
+                    color: #FF6600;
+                    font-family: arial, helvetica, sans-serif;
+                    font-weight: bold;
+                }
+                &.ranger {
+                    background-color: #00ff99;
+                    font-weight: bold;
+                }
+                &.rogue {
+                    background-color: #0053cf;
+                    color: #B2CCCC;
+                    font-weight: bold;
+                }
+            }
+        }
+        &.barbarian {
+            background-color: #fff;
+            width: 100%;
+        }
+    }
+}
