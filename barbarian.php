@@ -11,7 +11,7 @@
     <body>
         <div class="wr barbarian">
             <p>Barbarian here</p>
-            
+            <input type="text" name="life">
             <div class="hp-calc">
                 <div class="total-hp">
                     <p class="total"></p>
