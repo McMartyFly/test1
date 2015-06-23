@@ -28,21 +28,27 @@
                 <div class="as-wrap">
                     <div class="as strength">
                         <p class="as-desc">Strength</p>
+                        <p class="as-val">9</p>
                     </div>
                     <div class="as dexteity">
                         <p class="as-desc">Dexterity</p>
+                        <p class="as-val">12</p>
                     </div>
                     <div class="as constitution">
                         <p class="as-desc">Constitution</p>
+                        <p class="as-val">6</p>
                     </div>
                     <div class="as intelligence">
                         <p class="as-desc">Intelligence</p>
+                        <p class="as-val">8</p>
                     </div>
                     <div class="as wisdom">
                         <p class="as-desc">Wisdom</p>
+                        <p class="as-val">11</p>
                     </div>
                     <div class="as charisma">
                         <p class="as-desc">Charisma</p>
+                        <p class="as-val">14</p>
                     </div>
                     <div class="clr"></div>
                 </div>
@@ -102,6 +108,32 @@
                     </div>
                     <div class="ss">
                         <p class="ss-desc">Survival<span>9</span></p>
+                    </div>
+                </div>
+                <div class="stat-wrap">
+                    <div class="stat">
+                        <p class="stat-desc">
+                            Armor Class
+                        </p>
+                        <p class="stat-val">
+                            25
+                        </p>
+                    </div>
+                    <div class="stat">
+                        <p class="stat-desc">
+                            Initiative
+                        </p>
+                        <p class="stat-val">
+                            +6
+                        </p>
+                    </div>
+                    <div class="stat">
+                        <p class="stat-desc">
+                            Speed
+                        </p>
+                        <p class="stat-val">
+                            8
+                        </p>
                     </div>
                 </div>
                 <div class="clr"></div>
