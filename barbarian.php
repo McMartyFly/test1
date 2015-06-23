@@ -11,17 +11,22 @@
     <body>
         <div class="wr barbarian">
             <p>Barbarian here</p>
-            <input type="text" name="life">
-            <div class="hp-calc">
-                <div class="total-hp">
-                    <p class="total"></p>
+            <div class="life-and-thp">
+                <div class="life-wrap">
+                    <p>Life Total</p>
+                    <select>
+                      <option value="volvo">Volvo</option>
+                      <option value="saab">Saab</option>
+                      <option value="mercedes">Mercedes</option>
+                      <option value="audi">Audi</option>
+                    </select>
+                    <input class="life" type="text" name="life">
                 </div>
-                <div class="less-hp">
-                    <p class="icon">-</p>
+                <div class="thp-wrap">
+                    <p>Temp Hp</p>
+                    <input class="thp" type="text" name="thp">
                 </div>
-                <div class="more-hp">
-                    <p class="icon">+</p>
-                </div>
+                
             </div>
             
             <div class="scores">
@@ -137,18 +142,6 @@
                     </div>
                 </div>
                 <div class="clr"></div>
-            </div>
-            
-            <div class="thp-calc">
-                <div class="total-thp">
-                    <p class="thp-total"></p>
-                </div>
-                <div class="less-thp">
-                    <p class="icon">-</p>
-                </div>
-                <div class="more-thp">
-                    <p class="icon">+</p>
-                </div>
             </div>
             
             <div class="aic-button">
