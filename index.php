@@ -10,7 +10,7 @@
     </head>
     <body>
         <div class="wr class-selection">
-            <p>Pick your class bitch</p>
+            <p>Choose Wisely...</p>
             <a class="barbarian" href="/barbarian.php">Barbarian</a>
             <a class="ranger"href="/ranger.php">Ranger</a>
             <a class="monk" href="/monk.php">Monk</a>

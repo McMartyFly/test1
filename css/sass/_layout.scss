@@ -48,7 +48,35 @@ body {
             &.barbarian {
                 background-color: #fff;
                 width: 100%;
+                
+                p {
+                    font-size: 30px;
+                }
+            }
+            &.monk {
+                background-color: #fff;
+                width: 100%;
+                
+                p {
+                    font-size: 30px;
+                }
+            }
+            &.ranger {
+                background-color: #fff;
+                width: 100%;
+                
+                p {
+                    font-size: 30px;
+                }
+            }
+            &.rogue {
+                background-color: #fff;
+                width: 100%;
+                
+                p {
+                    font-size: 30px;
+                }
             }
         }
-    }
+    }//end media query
 }
