@@ -59,12 +59,34 @@ body {
             }
             .aic-button {
                 background-color: #888888;
-                height: 50px;
-                padding: 20px 0 0 0;
+                height: 78px;
                 text-align: center;
                 width: 100%;
+                
+                .aic-page {
+                    cursor: pointer;
+                    float: left;
+                    height: 77px;
+                    outline: 1px solid #000;
+                    width: 25%;
+                    
+                    p {
+                        font-size: 10px;
+                        padding: 20px 0 0 0;
+                    }
+                }
             }
-            .actions-in-combat {
+            .combat,
+            .spells,
+            .features,
+            .class-race {
+                display: block;
+                
+                &.hide {
+                    display: none;
+                }
+            }
+            .combat {
                 cursor: pointer;
                 display: block;
                 &.hide {

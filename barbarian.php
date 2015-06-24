@@ -204,11 +204,151 @@
             </div>
             
             <div class="aic-button">
-                <p>Actions In Combat</p>
+                <div class="aic-page one">
+                    <p class="aic-label">Combat</p>
+                </div>
+                <div class="aic-page two">
+                    <p class="aic-label">Spells</p>
+                </div>
+                <div class="aic-page three">
+                    <p class="aic-label">Features</p>
+                </div>
+                <div class="aic-page four">
+                    <p class="aic-label">Class/Race</p>
+                </div>
             </div>
-            <div class="actions-in-combat hide">
+            <div class="combat">
                 <div class="attack">
                     <p class="action">Attack</p>
+                    <p class="description">talk abou attacks</p>
+                </div>
+                <div class="cast-a-spell">
+                    <p class="action">Cast A Spell</p>
+                    <p class="description">shoot some magic</p>
+                </div>
+                <div class="dash">
+                    <p class="action">Dash</p>
+                    <p class="description">quick get out of there</p>
+                </div>
+                <div class="disengage">
+                    <p class="action">Disengage</p>
+                    <p class="description">staying safe never hurts</p>
+                </div>
+                <div class="dodge">
+                    <p class="action">Dodge</p>
+                    <p class="description">like a shadowy ninja</p>
+                </div>
+                <div class="help">
+                    <p class="action">Help</p>
+                    <p class="description">help your friends get high</p>
+                </div>
+                <div class="hide">
+                    <p class="action">Hide</p>
+                    <p class="description">even shadowyer ninja</p>
+                </div>
+                <div class="ready">
+                    <p class="action">Ready</p>
+                    <p class="description">costs a response action</p>
+                </div>
+                <div class="search">
+                    <p class="action">Search</p>
+                    <p class="description">maybe there is a button</p>
+                </div>
+                <div class="use-an-object">
+                    <p class="action">Use An Object</p>
+                    <p class="description">try pushing the button now</p>
+                </div>
+            </div>
+            
+            <div class="spells hide">
+                <div class="attack">
+                    <p class="action">2nd page</p>
+                    <p class="description">talk abou attacks</p>
+                </div>
+                <div class="cast-a-spell">
+                    <p class="action">Cast A Spell</p>
+                    <p class="description">shoot some magic</p>
+                </div>
+                <div class="dash">
+                    <p class="action">Dash</p>
+                    <p class="description">quick get out of there</p>
+                </div>
+                <div class="disengage">
+                    <p class="action">Disengage</p>
+                    <p class="description">staying safe never hurts</p>
+                </div>
+                <div class="dodge">
+                    <p class="action">Dodge</p>
+                    <p class="description">like a shadowy ninja</p>
+                </div>
+                <div class="help">
+                    <p class="action">Help</p>
+                    <p class="description">help your friends get high</p>
+                </div>
+                <div class="hide">
+                    <p class="action">Hide</p>
+                    <p class="description">even shadowyer ninja</p>
+                </div>
+                <div class="ready">
+                    <p class="action">Ready</p>
+                    <p class="description">costs a response action</p>
+                </div>
+                <div class="search">
+                    <p class="action">Search</p>
+                    <p class="description">maybe there is a button</p>
+                </div>
+                <div class="use-an-object">
+                    <p class="action">Use An Object</p>
+                    <p class="description">try pushing the button now</p>
+                </div>
+            </div>
+            
+            <div class="features hide">
+                <div class="attack">
+                    <p class="action">3rd page</p>
+                    <p class="description">talk abou attacks</p>
+                </div>
+                <div class="cast-a-spell">
+                    <p class="action">Cast A Spell</p>
+                    <p class="description">shoot some magic</p>
+                </div>
+                <div class="dash">
+                    <p class="action">Dash</p>
+                    <p class="description">quick get out of there</p>
+                </div>
+                <div class="disengage">
+                    <p class="action">Disengage</p>
+                    <p class="description">staying safe never hurts</p>
+                </div>
+                <div class="dodge">
+                    <p class="action">Dodge</p>
+                    <p class="description">like a shadowy ninja</p>
+                </div>
+                <div class="help">
+                    <p class="action">Help</p>
+                    <p class="description">help your friends get high</p>
+                </div>
+                <div class="hide">
+                    <p class="action">Hide</p>
+                    <p class="description">even shadowyer ninja</p>
+                </div>
+                <div class="ready">
+                    <p class="action">Ready</p>
+                    <p class="description">costs a response action</p>
+                </div>
+                <div class="search">
+                    <p class="action">Search</p>
+                    <p class="description">maybe there is a button</p>
+                </div>
+                <div class="use-an-object">
+                    <p class="action">Use An Object</p>
+                    <p class="description">try pushing the button now</p>
+                </div>
+            </div>
+            
+            <div class="class-race hide">
+                <div class="attack">
+                    <p class="action">4th</p>
                     <p class="description">talk abou attacks</p>
                 </div>
                 <div class="cast-a-spell">
