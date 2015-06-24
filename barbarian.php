@@ -87,32 +87,33 @@
                 </div>
                 
             </div>
+            <div class="clr"></div>
             
             <div class="scores">
                 <div class="as-wrap">
                     <div class="as strength">
                         <p class="as-desc">Strength</p>
-                        <p class="as-val">9</p>
+                        <p class="as-val">9 <span>(+2)</span></p>
                     </div>
-                    <div class="as dexteity">
+                    <div class="as dexterity">
                         <p class="as-desc">Dexterity</p>
-                        <p class="as-val">12</p>
+                        <p class="as-val">12 <span>(+3)</span></p>
                     </div>
                     <div class="as constitution">
                         <p class="as-desc">Constitution</p>
-                        <p class="as-val">6</p>
+                        <p class="as-val">6 <span>(0)</span></p>
                     </div>
                     <div class="as intelligence">
                         <p class="as-desc">Intelligence</p>
-                        <p class="as-val">8</p>
+                        <p class="as-val">8 <span>(+1)</span></p>
                     </div>
                     <div class="as wisdom">
                         <p class="as-desc">Wisdom</p>
-                        <p class="as-val">11</p>
+                        <p class="as-val">11 <span>(+2)</span></p>
                     </div>
                     <div class="as charisma">
                         <p class="as-desc">Charisma</p>
-                        <p class="as-val">14</p>
+                        <p class="as-val">14 <span>(+3)</span></p>
                     </div>
                     <div class="clr"></div>
                 </div>
@@ -120,25 +121,25 @@
                     <div class="ss">
                         <p class="ss-desc">Acrobatics<span>5</span></p>
                     </div>
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">Animal Handling<span>7</span></p>
                     </div>
                     <div class="ss">
                         <p class="ss-desc">Arcana<span>2</span></p>
                     </div>
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">Athletics<span>9</span></p>
                     </div>
                     <div class="ss">
                         <p class="ss-desc">Deception<span>3</span></p>
                     </div>
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">History<span>4</span></p>
                     </div>
                     <div class="ss">
                         <p class="ss-desc">Insight<span>5</span></p>
                     </div>
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">Intimidation<span>6</span></p>
                     </div>
                     <div class="ss">
@@ -146,36 +147,36 @@
                     </div>
                 </div>
                 <div class="ss-wrap">
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">Medicine<span>6</span></p>
                     </div>
                     <div class="ss">
                         <p class="ss-desc">Nature<span>8</span></p>
                     </div>
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">Perception<span>3</span></p>
                     </div>
                     <div class="ss">
                         <p class="ss-desc">Performance<span>5</span></p>
                     </div>
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">Persuasion<span>6</span></p>
                     </div>
                     <div class="ss">
                         <p class="ss-desc">Religion<span>5</span></p>
                     </div>
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">Sleight of Hand<span>4</span></p>
                     </div>
                     <div class="ss">
                         <p class="ss-desc">Stealth<span>7</span></p>
                     </div>
-                    <div class="ss">
+                    <div class="ss shade">
                         <p class="ss-desc">Survival<span>9</span></p>
                     </div>
                 </div>
                 <div class="stat-wrap">
-                    <div class="stat">
+                    <div class="stat arm">
                         <p class="stat-desc">
                             Armor Class
                         </p>
@@ -183,7 +184,15 @@
                             25
                         </p>
                     </div>
-                    <div class="stat">
+                    <div class="stat spe">
+                        <p class="stat-desc">
+                            Speed
+                        </p>
+                        <p class="stat-val">
+                            8
+                        </p>
+                    </div>
+                    <div class="stat ini">
                         <p class="stat-desc">
                             Initiative
                         </p>
@@ -191,12 +200,12 @@
                             +6
                         </p>
                     </div>
-                    <div class="stat">
+                    <div class="stat pro">
                         <p class="stat-desc">
-                            Speed
+                            Proficiency Bonus
                         </p>
                         <p class="stat-val">
-                            8
+                            +2
                         </p>
                     </div>
                 </div>
