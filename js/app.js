@@ -34,6 +34,48 @@ $( document ).ready(function() {
         $('.combat').removeClass('hide');
     }
     
+    function diceRoll(){
+        var roll = 1;
+        roll = Math.floor(Math.random() * 6) + 1;
+        
+        if (roll == 1){
+            $('.dot').css('background-color','blue');
+            $('.dot.five').css('background-color','#fff');
+        } else if (roll == 2){
+            $('.dot').css('background-color','blue');
+            $('.dot.three, .dot.seven').css('background-color','#fff');
+        } else if (roll == 3){
+            $('.dot').css('background-color','blue');
+            $('.dot.one, .dot.five, .dot.nine').css('background-color','#fff');
+        } else if (roll == 4){
+            $('.dot').css('background-color','blue');
+            $('.dot.one, .dot.three, .dot.seven, .dot.nine').css('background-color','#fff');
+        } else if (roll == 5){
+            $('.dot').css('background-color','blue');
+            $('.dot.one, .dot.three, .dot.five, .dot.seven, .dot.nine').css('background-color','#fff');
+        } else {
+            $('.dot').css('background-color','blue');
+            $('.dot.one, .dot.three, .dot.four, .dot.six, .dot.seven, .dot.nine').css('background-color','#fff');
+        }
+    }
+    
+    var spins = 0;
+    
+    function rollAnimation(){
+        $('.dice').on('click', function(){
+            spins = Math.floor(Math.random() * 9) + 5;
+            var animate = setInterval(function(){
+                diceRoll();
+                spins = spins - 1;
+            
+                if (spins == 0){
+                    clearInterval(animate);
+                }
+            }, 250);
+        });
+    }
+    
+    rollAnimation();
     startupSelection();
     actionsInCombat();
 

@@ -296,6 +296,61 @@ body {
                     font-size: 30px;
                 }
             }
+            .dice {
+                background-color: blue;
+                border-radius: 20px;
+                border: 3px solid #999999;
+                height: 100px;
+                margin: 30px auto;
+                position: relative;
+                width: 100px;
+                
+                .dot {
+                    background-color: blue;
+                    border-radius: 10px;
+                    
+                    height: 20px;
+                    position: absolute;
+                    width: 20px;
+                    
+                    &.one {
+                        top: 10px;
+                        left: 10px;
+                    }
+                    &.two {
+                        top: 10px;
+                        left: 40px;
+                    }
+                    &.three {
+                        top: 10px;
+                        left: 70px;
+                    }
+                    &.four {
+                        top: 40px;
+                        left: 10px;
+                    }
+                    &.five {
+                        top: 40px;
+                        left: 40px;
+                    }
+                    &.six {
+                        top: 40px;
+                        left: 70px;
+                    }
+                    &.seven {
+                        top: 70px;
+                        left: 10px;
+                    }
+                    &.eight {
+                        top: 70px;
+                        left: 40px;
+                    }
+                    &.nine {
+                        top: 70px;
+                        left: 70px;
+                    }
+                }
+            }
         }
     }//end media query
 }
