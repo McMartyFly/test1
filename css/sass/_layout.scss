@@ -1,5 +1,13 @@
 body {
     @media screen and (max-width: 600px) {
         
+        .list {
+            display: none;
+            
+            &.open {
+                display: block;
+            }
+        }
+        
     }//end media query
 }
