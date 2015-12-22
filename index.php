@@ -9,12 +9,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" >
     </head>
     <body>
-        <div class="wr class-selection">
-            <p>Choose Wisely...</p>
-            <a class="barbarian" href="/barbarian.php">Barbarian</a>
-            <a class="ranger"href="/ranger.php">Ranger</a>
-            <a class="monk" href="/monk.php">Monk</a>
-            <a class="rogue" href="/rogue.php">Rogue</a>
-        </div>
+        
     </body>
 </html>
