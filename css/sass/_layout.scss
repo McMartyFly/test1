@@ -30,13 +30,14 @@ body {
                 
                 &.war {
                     background: #800000;
+                    box-shadow: 0 0 5px 2px #999;
                     color: #9900cc;
                     letter-spacing: 3px;
                     text-shadow: 0 0 1px #000;
                     
                     &.active {
                         color: #ff00ff;
-                        box-shadow: 0 9px 5px 2px #aaa;
+                        box-shadow: 0 9px 5px 2px #999;
                         font-size: 55px;
                         margin: -12px auto 3px auto;
                         text-shadow: 0 0 18px #ff00ff;
@@ -46,13 +47,13 @@ body {
                 
                 &.wiz {
                     background: #666699;
-                    box-shadow: 0 0 5px 2px #aaa;
+                    box-shadow: 0 0 5px 2px #999;
                     color: #b2b300;
                     text-shadow: 0 0 1px #000;
                     
                     &.active {
                         color: #ffff00;
-                        box-shadow: 0 9px 5px 2px #aaa;
+                        box-shadow: 0 9px 5px 2px #999;
                         font-size: 55px;
                         margin: -12px auto 3px auto;
                         text-shadow: 0 0 18px #ffff00;
@@ -188,7 +189,7 @@ body {
                     &.wiz {
                         
                         &.cantrip {
-                            height: 960px;
+                            height: 900px;
                         }
                         &.one {
                             height: 60px;
@@ -197,8 +198,30 @@ body {
                 }
                 
                 li {
-                    height: 60px;
                     text-align: center;
+                    
+                    .spell-head {
+                        -webkit-transition: all 0.5s ease;
+                        -moz-transition: all 0.5s ease;
+                        -o-transition: all 0.5s ease;
+                        transition: all 0.5s ease;
+                        
+                        font-size: 24px;
+                        letter-spacing: 8px;
+                        padding: 16px 0;
+                        text-shadow: 0 0 1px #000;
+                        
+                        &.wiz {
+                            box-shadow: 0px 3px 3px 0px #52527a;
+                            color: #b2b300;
+                            
+                            &.active {
+                                
+                                color: #ffff00;
+                                text-shadow: 0 0 18px #ffff00;
+                            }
+                        }
+                    }
                 }
                 
                 

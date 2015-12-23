@@ -4,7 +4,8 @@ $( document ).ready(function() {
         $('.main').on('click', function(){
             if($(this).hasClass('active')){
                 $(this).siblings('.index-wrap').find('.index').removeClass('open');
-                $(this).siblings('.index-wrap').siblings('.page').removeClass('show');
+                $(this).siblings('.page').removeClass('show');
+                $(this).siblings('.page').find('.spell-head').removeClass('active');
             };
             
             $(this).siblings().toggleClass('open');
@@ -44,7 +45,14 @@ $( document ).ready(function() {
         });
     };
     
+    function openSpell(){
+        $('.spell-head').on('click', function(){
+            $(this).toggleClass('active');
+        });
+    };
+    
     openList();
     openPage();
+    openSpell();
     
 });

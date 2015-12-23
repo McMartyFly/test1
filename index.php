@@ -56,52 +56,52 @@
                 
                 <ul class="cantrip page wiz">
                     <li>
-                        <div>Acid Splash</div>
+                        <div class="spell-head wiz">Acid Splash</div>
                     </li>
                     <li>
-                        <div>Blade Ward</div>
+                        <div class="spell-head wiz">Blade Ward</div>
                     </li>
                     <li>
-                        <div>Chill Touch</div>
+                        <div class="spell-head wiz">Chill Touch</div>
                     </li>
                     <li>
-                        <div>Dancing Lights</div>
+                        <div class="spell-head wiz">Dancing Lights</div>
                     </li>
                     <li>
-                        <div>Fire Bolt</div>
+                        <div class="spell-head wiz">Fire Bolt</div>
                     </li>
                     <li>
-                        <div>Friends</div>
+                        <div class="spell-head wiz">Friends</div>
                     </li>
                     <li>
-                        <div>Light</div>
+                        <div class="spell-head wiz">Light</div>
                     </li>
                     <li>
-                        <div>Mage Hand</div>
+                        <div class="spell-head wiz">Mage Hand</div>
                     </li>
                     <li>
-                        <div>Mending</div>
+                        <div class="spell-head wiz">Mending</div>
                     </li>
                     <li>
-                        <div>Message</div>
+                        <div class="spell-head wiz">Message</div>
                     </li>
                     <li>
-                        <div>Minor Illusion</div>
+                        <div class="spell-head wiz">Minor Illusion</div>
                     </li>
                     <li>
-                        <div>Poison Spray</div>
+                        <div class="spell-head wiz">Poison Spray</div>
                     </li>
                     <li>
-                        <div>Prestidigitation</div>
+                        <div class="spell-head wiz">Prestidigitation</div>
                     </li>
                     <li>
-                        <div>Ray of Frost</div>
+                        <div class="spell-head wiz">Ray of Frost</div>
                     </li>
                     <li>
-                        <div>Shocking Grasp</div>
+                        <div class="spell-head wiz">Shocking Grasp</div>
                     </li>
                     <li>
-                        <div>True Strike</div>
+                        <div class="spell-head wiz">True Strike</div>
                     </li>
                 </ul>
                 <ul class="one page wiz">
