@@ -1,8 +1,9 @@
 $( document ).ready(function() {
     
     function openList(){
-        $('.button').on('click', function(){
+        $('.main').on('click', function(){
             $(this).siblings().toggleClass('open');
+            $(this).toggleClass('active');
         })
     };
     
