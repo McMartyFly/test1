@@ -14,16 +14,22 @@
             <div>
                 <div class="main war">Warlock</div>
                 <div class="index-wrap">
-                    <div class="index">Cantrip</div>
-                    <div class="index">1st Lvl</div>
-                    <div class="index">2nd Lvl</div>
-                    <div class="index">3rd Lvl</div>
-                    <div class="index">4th Lvl</div>
-                    <div class="index">5th Lvl</div>
-                    <div class="index">6th Lvl</div>
-                    <div class="index">7th Lvl</div>
-                    <div class="index">8th Lvl</div>
-                    <div class="index">9th Lvl</div>
+                    <div class="index-row top">
+                        <div class="index war">Cantrip</div>
+                        <div class="index war">1st Lvl</div>
+                        <div class="index war">2nd Lvl</div>
+                        <div class="index war">3rd Lvl</div>
+                        <div class="index war">4th Lvl</div>
+                        <div class="clb"></div>
+                    </div>
+                    <div class="index-row bottom">
+                        <div class="index war">5th Lvl</div>
+                        <div class="index war">6th Lvl</div>
+                        <div class="index war">7th Lvl</div>
+                        <div class="index war">8th Lvl</div>
+                        <div class="index war">9th Lvl</div>
+                        <div class="clb"></div>
+                    </div>
                 </div>
             </div>
             
@@ -31,22 +37,21 @@
                 <div class="main wiz">Wizard</div>
                 <div class="index-wrap">
                     <div class="index-row top">
-                        <div class="index">Cantrip</div>
-                        <div class="index">1st Lvl</div>
-                        <div class="index">2nd Lvl</div>
-                        <div class="index">3rd Lvl</div>
-                        <div class="index">4th Lvl</div>
+                        <div class="index wiz">Cantrip</div>
+                        <div class="index wiz">1st Lvl</div>
+                        <div class="index wiz">2nd Lvl</div>
+                        <div class="index wiz">3rd Lvl</div>
+                        <div class="index wiz">4th Lvl</div>
                         <div class="clb"></div>
                     </div>
                     <div class="index-row bottom">
-                        <div class="index">5th Lvl</div>
-                        <div class="index">6th Lvl</div>
-                        <div class="index">7th Lvl</div>
-                        <div class="index">8th Lvl</div>
-                        <div class="index">9th Lvl</div>
+                        <div class="index wiz">5th Lvl</div>
+                        <div class="index wiz">6th Lvl</div>
+                        <div class="index wiz">7th Lvl</div>
+                        <div class="index wiz">8th Lvl</div>
+                        <div class="index wiz">9th Lvl</div>
                         <div class="clb"></div>
                     </div>
-                    
                 </div>
             </div>
             

@@ -72,12 +72,19 @@ body {
                     text-align: center;
                     
                     .index {
-                        background: #666699;
                         border-radius: 10px;
                         display: inline-block;
                         margin: 10px 0 5px;
                         padding: 20px 0;
                         width: 18%;
+                        
+                        &.wiz {
+                            background: #666699;
+                        }
+                        
+                        &.war {
+                            background: #800000;
+                        }
                     }
                     
                     &.top {
