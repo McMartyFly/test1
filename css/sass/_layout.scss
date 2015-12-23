@@ -11,10 +11,10 @@ body {
                 transition: all 0.5s ease;
                 
                 border-radius: 10px;
-                font-size: 54px;
+                font-size: 52px;
                 letter-spacing: 15px;
                 margin: 0 auto 3px auto;
-                padding: 10px 0;
+                padding: 10px 0 10px 3px;
                 position: relative;
                 text-align: center;
                 text-transform: uppercase;
@@ -33,7 +33,7 @@ body {
                     &.active {
                         color: #ffff00;
                         box-shadow: 0 9px 5px 2px #aaa;
-                        font-size: 59px;
+                        font-size: 57px;
                         margin: -12px auto 3px auto;
                         text-shadow: 0 0 18px #ffff00;
                         width: 97%;
