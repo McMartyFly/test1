@@ -38,7 +38,7 @@
                 <div class="index-wrap">
                     <div class="index-row top">
                         <div class="index wiz cantrip">Cantrip</div>
-                        <div class="index wiz">1st Lvl</div>
+                        <div class="index wiz one">1st Lvl</div>
                         <div class="index wiz">2nd Lvl</div>
                         <div class="index wiz">3rd Lvl</div>
                         <div class="index wiz">4th Lvl</div>
@@ -52,20 +52,68 @@
                         <div class="index wiz">9th Lvl</div>
                         <div class="clb"></div>
                     </div>
-                    <div class="book">
-                        <ul class="cantrip page">
-                            <li>
-                                <div>Acid Splash</div>
-                            </li>
-                            <li>
-                                <div>Blade Ward</div>
-                            </li>
-                        </ul>
-                    </div>
                 </div>
+                
+                <ul class="cantrip page wiz">
+                    <li>
+                        <div>Acid Splash</div>
+                    </li>
+                    <li>
+                        <div>Blade Ward</div>
+                    </li>
+                    <li>
+                        <div>Chill Touch</div>
+                    </li>
+                    <li>
+                        <div>Dancing Lights</div>
+                    </li>
+                    <li>
+                        <div>Fire Bolt</div>
+                    </li>
+                    <li>
+                        <div>Friends</div>
+                    </li>
+                    <li>
+                        <div>Light</div>
+                    </li>
+                    <li>
+                        <div>Mage Hand</div>
+                    </li>
+                    <li>
+                        <div>Mending</div>
+                    </li>
+                    <li>
+                        <div>Message</div>
+                    </li>
+                    <li>
+                        <div>Minor Illusion</div>
+                    </li>
+                    <li>
+                        <div>Poison Spray</div>
+                    </li>
+                    <li>
+                        <div>Prestidigitation</div>
+                    </li>
+                    <li>
+                        <div>Ray of Frost</div>
+                    </li>
+                    <li>
+                        <div>Shocking Grasp</div>
+                    </li>
+                    <li>
+                        <div>True Strike</div>
+                    </li>
+                </ul>
+                <ul class="one page wiz">
+                    <li>
+                        <div>other spells</div>
+                    </li>
+                    <li>
+                        <div>more spells</div>
+                    </li>
+                </ul>
+                
             </div>
-            
-            
         </div>
         
     </body>
