@@ -18,7 +18,6 @@ $( document ).ready(function() {
             $(this).closest('.index-wrap').find('.index').removeClass('open');
             $(this).addClass('open');
             
-            
             $(this).closest('.index-wrap').siblings('.page').removeClass('show');
             
             if($(this).hasClass('cantrip')){
@@ -48,6 +47,7 @@ $( document ).ready(function() {
     function openSpell(){
         $('.spell-head').on('click', function(){
             $(this).toggleClass('active');
+            $(this).siblings('.spell-detail').toggleClass('open');
         });
     };
     

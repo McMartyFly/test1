@@ -56,12 +56,21 @@
                 
                 <ul class="cantrip page wiz">
                     <li>
+                        <div class="spell-detail">
+                            
+                        </div>
                         <div class="spell-head wiz">Acid Splash</div>
                     </li>
                     <li>
-                        <div class="spell-head wiz">Blade Ward</div>
+                        <div class="spell-detail">
+                            
+                        </div>
+                        <div class="spell-head wiz alt">Blade Ward</div>
                     </li>
                     <li>
+                        <div class="spell-detail">
+                            
+                        </div>
                         <div class="spell-head wiz">Chill Touch</div>
                     </li>
                     <li>
