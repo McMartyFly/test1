@@ -12,11 +12,7 @@
         
         <div class="spell-list">
             <div>
-                <div class="main war">Wizard</div>
-            </div>
-            
-            <div>
-                <div class="main wiz">Wizard</div>
+                <div class="main war">Warlock</div>
                 <div class="index-wrap">
                     <div class="index">Cantrip</div>
                     <div class="index">1st Lvl</div>
@@ -28,6 +24,29 @@
                     <div class="index">7th Lvl</div>
                     <div class="index">8th Lvl</div>
                     <div class="index">9th Lvl</div>
+                </div>
+            </div>
+            
+            <div>
+                <div class="main wiz">Wizard</div>
+                <div class="index-wrap">
+                    <div class="index-row top">
+                        <div class="index">Cantrip</div>
+                        <div class="index">1st Lvl</div>
+                        <div class="index">2nd Lvl</div>
+                        <div class="index">3rd Lvl</div>
+                        <div class="index">4th Lvl</div>
+                        <div class="clb"></div>
+                    </div>
+                    <div class="index-row bottom">
+                        <div class="index">5th Lvl</div>
+                        <div class="index">6th Lvl</div>
+                        <div class="index">7th Lvl</div>
+                        <div class="index">8th Lvl</div>
+                        <div class="index">9th Lvl</div>
+                        <div class="clb"></div>
+                    </div>
+                    
                 </div>
             </div>
             

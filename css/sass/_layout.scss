@@ -4,6 +4,10 @@ body {
             padding: 20px 0;
             width: 100%;
             
+            .clb {
+                clear: both;
+            }
+            
             .main {
                 -webkit-transition: all 0.5s ease;
                 -moz-transition: all 0.5s ease;
@@ -22,6 +26,18 @@ body {
                 
                 &.war {
                     background: #800000;
+                    color: #9900cc;
+                    letter-spacing: 3px;
+                    text-shadow: 0 0 1px #000;
+                    
+                    &.active {
+                        color: #ff00ff;
+                        box-shadow: 0 9px 5px 2px #aaa;
+                        font-size: 55px;
+                        margin: -12px auto 3px auto;
+                        text-shadow: 0 0 18px #ff00ff;
+                        width: 95%;
+                    }
                 }
                 
                 &.wiz {
@@ -41,9 +57,43 @@ body {
                 }
             }
             .index-wrap {
-                display: none;
+                -webkit-transition: all 0.5s ease;
+                -moz-transition: all 0.5s ease;
+                -o-transition: all 0.5s ease;
+                transition: all 0.5s ease;
+                
+                height: 0;
+                overflow: hidden;
                 &.open {
-                    display: block;
+                    height: 170px;
+                }
+                
+                .index-row {
+                    text-align: center;
+                    
+                    .index {
+                        background: #666699;
+                        border-radius: 10px;
+                        display: inline-block;
+                        margin: 10px 0 5px;
+                        padding: 20px 0;
+                        width: 18%;
+                    }
+                    
+                    &.top {
+                        
+                        .index {
+                            box-shadow: 0 9px 5px 2px #aaa;
+                        }
+                    }
+                    
+                    &.bottom {
+                        
+                        .index {
+                            box-shadow: 0 9px 5px 2px #aaa;
+                        }
+                    }
+                    
                 }
             }
         }
