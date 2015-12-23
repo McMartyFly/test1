@@ -49,8 +49,8 @@
                             <div class="button indent-1 wiz">Cantrips</div>
                             <ul class="list">
                                 <li>
-                                    <div class="button indent-2">Acid Splash</div>
-                                    <div class="list">
+                                    <div class="button indent-2 wiz">Acid Splash</div>
+                                    <div class="list details">
                                         <div>Conjuration cantrip</div>
                                         <div>Casting Time: 1 action</div>
                                         <div>Range: 60 feet</div>
@@ -60,8 +60,8 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Blade Ward</div>
-                                    <div class="list">
+                                    <div class="button indent-2 wiz">Blade Ward</div>
+                                    <div class="list details">
                                         <div>Abjuration cantrip</div>
                                         <div>Casting Time: 1 action</div>
                                         <div>Range: Self</div>
@@ -71,8 +71,8 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Chill Touch</div>
-                                    <div class="list">
+                                    <div class="button indent-2 wiz">Chill Touch</div>
+                                    <div class="list details">
                                         <div>Necromancy cantrip</div>
                                         <div>Casting Time: 1 action</div>
                                         <div>Range: 120 feet</div>
@@ -82,8 +82,8 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Dancing Lights</div>
-                                    <div class="list">
+                                    <div class="button indent-2 wiz">Dancing Lights</div>
+                                    <div class="list details">
                                         <div>Evocation cantrip</div>
                                         <div>Casting Time: 1 action</div>
                                         <div>Range: 120 feet</div>
@@ -93,8 +93,8 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Fire Bolt</div>
-                                    <div class="list">
+                                    <div class="button indent-2 wiz">Fire Bolt</div>
+                                    <div class="list details">
                                         <div>Evocation cantrip</div>
                                         <div>Casting Time: 1 action</div>
                                         <div>Range: 120 feet</div>
@@ -104,37 +104,37 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Friends</div>
+                                    <div class="button indent-2 wiz">Friends</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Light</div>
+                                    <div class="button indent-2 wiz">Light</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Mage Hand</div>
+                                    <div class="button indent-2 wiz">Mage Hand</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Mending</div>
+                                    <div class="button indent-2 wiz">Mending</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Message</div>
+                                    <div class="button indent-2 wiz">Message</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Minor Illusion</div>
+                                    <div class="button indent-2 wiz">Minor Illusion</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Poison Spray</div>
+                                    <div class="button indent-2 wiz">Poison Spray</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Prestidigitation</div>
+                                    <div class="button indent-2 wiz">Prestidigitation</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Ray of Frost</div>
+                                    <div class="button indent-2 wiz">Ray of Frost</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">Shocking Grasp</div>
+                                    <div class="button indent-2 wiz">Shocking Grasp</div>
                                 </li>
                                 <li>
-                                    <div class="button indent-2">True Strike</div>
+                                    <div class="button indent-2 wiz">True Strike</div>
                                 </li>
                             </ul>
                         </li>

@@ -9,17 +9,18 @@ body {
                 &.open {
                     display: block;
                 }
+                
+                &.details {
+                    margin: 0 auto;
+                    width: 75%;
+                }
             }
             
             
             li {
                 
                 &.wiz {
-                    background: #e5e5ff;
-                    border-bottom: 3px solid #8c8c8c;
-                    border-top: 3px solid #f2f2f2;
-                    border-right: 3px solid #cccccc;
-                    border-left: 3px solid #cccccc;
+                    
                 }
             }
             
@@ -29,39 +30,44 @@ body {
 //            indent styles
             .indent-0 {
                 font-weight: 800;
-                padding: 25px 0;
+                
                 text-transform: uppercase;
                 
                 &.wiz {
                     background: #b3b3ff;
-                    border-bottom: 3px solid #8c8c8c;
-                    border-top: 3px solid #f2f2f2;
-                    border-right: 3px solid #cccccc;
-                    border-left: 3px solid #cccccc;
+                    color: #ffff00;
+                    font-size: 60px;
+                    letter-spacing: 30px;
+                    text-align: center;
+                    text-shadow: 0 0 30px;
                 }
                 
             }
         
             .indent-1 {
-                border-radius: 0 5px 5px 0;
                 font-family: sans-serif;
+                padding: 25px 0;
                 text-align: center;
                 text-transform: uppercase;
                 width: 50%;
                 
                 &.wiz {
-                    border-bottom: 3px solid #8c8c8c;
-                    border-top: 3px solid #f2f2f2;
-                    border-right: 3px solid #cccccc;
-                    border-left: 3px solid #cccccc;
+                    background: #e5e5ff;
+                    
                 }
             }
         
             .indent-2 {
-                
+                padding: 25px 0;
+                margin: 0 0 0 auto;
                 text-align: center;
-                margin: 0 auto;
-                width: 30%;
+                width: 70%;
+                
+                &.wiz {
+                    background: #e5e5ff;
+                    
+                }
+                
             }
         }
     }//end media query
