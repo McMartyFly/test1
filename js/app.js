@@ -46,7 +46,7 @@ $( document ).ready(function() {
     
     function openSpell(){
         $('.spell-head').on('click', function(){
-            $(this).toggleClass('active');
+            $(this).toggleClass('on');
             $(this).siblings('.spell-detail').toggleClass('open');
         });
     };
