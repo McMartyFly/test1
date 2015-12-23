@@ -2,6 +2,10 @@ $( document ).ready(function() {
     
     function openList(){
         $('.main').on('click', function(){
+            if($(this).hasClass('active')){
+                $(this).siblings('.index-wrap').find('.index').removeClass('open');
+            };
+            
             $(this).siblings().toggleClass('open');
             $(this).toggleClass('active');
         });
