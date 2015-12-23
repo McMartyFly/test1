@@ -224,14 +224,15 @@ body {
                         border-radius: 10px;
                         
                         height: 0px;
-                        margin: 0 10px 0;
+                        margin: 0 auto;
+                        max-width: 284px;
                         overflow: hidden;
                         text-align: left;
                         
                         &.open {
                             box-shadow: 0px -4px 7px 3px rgba(0,0,0,0.4);
                             height: 100px;
-                            margin: 15px 10px 0px 10px;
+                            margin: 15px auto 0px auto;
                             
                             &.acid-splash {
                                 height: 248px;
@@ -239,6 +240,18 @@ body {
                             &.blade-ward {
                                 height: 185px;
                             }
+                        }
+                        
+                        .title {
+                            text-align: center;
+                        }
+                        .sub {
+                            font-style: italic;
+                            text-align: center;
+                        }
+                        
+                        .bld {
+                            font-weight: bold;
                         }
                     }
                 }

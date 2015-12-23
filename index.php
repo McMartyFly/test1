@@ -57,13 +57,13 @@
                 <ul class="cantrip page wiz">
                     <li>
                         <div class="spell-detail acid-splash">
-                            <div>Acid Splash</div>
-                            <div>Conjuration cantrip</div>
-                            <div>Casting Time: 1 action</div>
-                            <div>Range: 60 feet</div>
-                            <div>Components: V, S</div>
-                            <div>Duration: Instantaneous</div>
-                            <div>You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.<br />&#160;&#160;This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</div>
+                            <div class="title bld">Acid Splash</div>
+                            <div class="sub">Conjuration cantrip</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="range"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.<br />&#160;&#160;This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</div>
                         </div>
                         <div class="spell-head wiz">Acid Splash</div>
                     </li>
