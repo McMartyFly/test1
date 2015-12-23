@@ -11,6 +11,7 @@
     <body>
         
         <div>
+            <a></a>
             <p>Spell List</p>
             <ul>
                 <li>
@@ -38,10 +39,10 @@
                 </li>
                 
                 <li>
-                    <a class="button">Warlock</a>
+                    <a class="button indent-0">Warlock</a>
                     <ul class="list">
                         <li>
-                            <a class="button">Cantrips</a>
+                            <a class="button indent-1">Cantrips</a>
                             <ul class="list">
                                 <li>ddd</li>
                                 <li>eee</li>
@@ -52,24 +53,24 @@
                 </li>
                 
                 <li>
-                    <a class="button">Wizard</a>
+                    <a class="button indent-0">Wizard</a>
                     <ul class="list">
                         <li>
-                            <a class="button">Cantrips</a>
+                            <a class="button indent-1">Cantrips</a>
                             <ul class="list">
                                 <li>
-                                    <a class="button">Acid Splash</a>
+                                    <a class="button indent-2">Acid Splash</a>
                                     <div class="list">
                                         <p>Conjuration cantrip</p>
                                         <p>Casting Time: 1 action</p>
                                         <p>Range: 60 feet</p>
                                         <p>Components: V, S</p>
                                         <p>Duration: Instantaneous</p>
-                                        <p>You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage. This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>
+                                        <p>You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.<br />&#160;&#160;This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>
                                     </div>
                                 </li>
                                 <li>
-                                    <a class="button">Blade Ward</a>
+                                    <a class="button indent-2">Blade Ward</a>
                                     <div class="list">
                                         <p>Abjuration cantrip</p>
                                         <p>Casting Time: 1 action</p>
@@ -80,36 +81,36 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <a class="button">Chill Touch</a>
+                                    <a class="button indent-2">Chill Touch</a>
                                     <div class="list">
                                         <p>Necromancy cantrip</p>
                                         <p>Casting Time: 1 action</p>
                                         <p>Range: 120 feet</p>
                                         <p>Components: V, S</p>
                                         <p>Duration: 1 round</p>
-                                        <p>You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn. This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>
+                                        <p>You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.<br />&#160;&#160;If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.<br />&#160;&#160;This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>
                                     </div>
                                 </li>
                                 <li>
-                                    <a class="button">Dancing Lights</a>
+                                    <a class="button indent-2">Dancing Lights</a>
                                     <div class="list">
                                         <p>Evocation cantrip</p>
                                         <p>Casting Time: 1 action</p>
                                         <p>Range: 120 feet</p>
                                         <p>Components: V, S, M (a bit of phosphorus or wychwood, or a glowworm)</p>
                                         <p>Duration: Concentration, up to 1 minute</p>
-                                        <p>You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius. As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.</p>
+                                        <p>You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.<br />&#160;&#160;As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.</p>
                                     </div>
                                 </li>
                                 <li>
-                                    <a class="button">Fire Bolt</a>
+                                    <a class="button indent-2">Fire Bolt</a>
                                     <div class="list">
                                         <p>Evocation cantrip</p>
                                         <p>Casting Time: 1 action</p>
                                         <p>Range: 120 feet</p>
                                         <p>Components: V, S</p>
                                         <p>Duration: Instantaneous</p>
-                                        <p>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried. This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).</p>
+                                        <p>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.<br />&#160;&#160;This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).</p>
                                     </div>
                                 </li>
                                 <li>
@@ -147,7 +148,9 @@
                                 </li>
                             </ul>
                         </li>
-                        <li>1st Level</li>
+                        <li>
+                            <a class="button indent-1">1st Level</a>
+                        </li>
                     </ul>
                 </li>
             </ul>
