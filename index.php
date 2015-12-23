@@ -11,7 +11,7 @@
     <body>
         
         <div class="spell-list">
-            <div>
+            <div class="outer-wrap">
                 <div class="main war">Warlock</div>
                 <div class="index-wrap">
                     <div class="index-row top">
@@ -33,11 +33,11 @@
                 </div>
             </div>
             
-            <div>
+            <div class="outer-wrap">
                 <div class="main wiz">Wizard</div>
                 <div class="index-wrap">
                     <div class="index-row top">
-                        <div class="index wiz">Cantrip</div>
+                        <div class="index wiz cantrip">Cantrip</div>
                         <div class="index wiz">1st Lvl</div>
                         <div class="index wiz">2nd Lvl</div>
                         <div class="index wiz">3rd Lvl</div>
@@ -51,6 +51,16 @@
                         <div class="index wiz">8th Lvl</div>
                         <div class="index wiz">9th Lvl</div>
                         <div class="clb"></div>
+                    </div>
+                    <div class="book">
+                        <ul class="cantrip page">
+                            <li>
+                                <div>Acid Splash</div>
+                            </li>
+                            <li>
+                                <div>Blade Ward</div>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
