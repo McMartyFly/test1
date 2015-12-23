@@ -1,25 +1,68 @@
 body {
     @media screen and (max-width: 600px) {
-        
-        .list {
-            display: none;
+        .spell-list {
             
-            &.open {
-                display: block;
+            
+            .list {
+                display: none;
+            
+                &.open {
+                    display: block;
+                }
+            }
+            
+            
+            li {
+                
+                &.wiz {
+                    background: #e5e5ff;
+                    border-bottom: 3px solid #8c8c8c;
+                    border-top: 3px solid #f2f2f2;
+                    border-right: 3px solid #cccccc;
+                    border-left: 3px solid #cccccc;
+                }
+            }
+            
+            
+            
+            
+//            indent styles
+            .indent-0 {
+                font-weight: 800;
+                padding: 25px 0;
+                text-transform: uppercase;
+                
+                &.wiz {
+                    background: #b3b3ff;
+                    border-bottom: 3px solid #8c8c8c;
+                    border-top: 3px solid #f2f2f2;
+                    border-right: 3px solid #cccccc;
+                    border-left: 3px solid #cccccc;
+                }
+                
+            }
+        
+            .indent-1 {
+                border-radius: 0 5px 5px 0;
+                font-family: sans-serif;
+                text-align: center;
+                text-transform: uppercase;
+                width: 50%;
+                
+                &.wiz {
+                    border-bottom: 3px solid #8c8c8c;
+                    border-top: 3px solid #f2f2f2;
+                    border-right: 3px solid #cccccc;
+                    border-left: 3px solid #cccccc;
+                }
+            }
+        
+            .indent-2 {
+                
+                text-align: center;
+                margin: 0 auto;
+                width: 30%;
             }
         }
-        
-        .indent-0 {
-            
-        }
-        
-        .indent-1 {
-            padding: 0 0 0 15%;
-        }
-        
-        .indent-2 {
-            padding: 0 0 0 30%;
-        }
-        
     }//end media query
 }
