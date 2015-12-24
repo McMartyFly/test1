@@ -9,9 +9,20 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" >
     </head>
     <body>
-        <div class="nav">
-            PUSH TO <span class="large">CLOSE</span>ALL UNUSED SPELLS
+        
+        <div class="stack">
+            <div class="nav2">
+            
+            </div>
+            <div class="nav3">
+            
+            </div>
+            <div class="nav4">
+                CLOSE
+            </div>
+            <div class='clb'></div>
         </div>
+        
         <div class="spell-list">
             <div class="outer-wrap">
                 <div class="main war">Warlock</div>

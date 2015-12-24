@@ -54,10 +54,10 @@ $( document ).ready(function() {
     };
     
     function slim(){
-        $('.nav').on('click', function(){
+        $('.stack').on('click', function(){
             if (slimmed == 0){
                 
-                $('.nav').html('<span class="large">SHOW</span> ALL SPELLS');
+                $('.nav4').html('OPEN');
                 
                 $('.spell-head').each(function(){
                     $(this).addClass('slim');
@@ -69,7 +69,7 @@ $( document ).ready(function() {
                 slimmed = 1;
             } else {
                 
-                $('.nav').html('PUSH TO <span class="large">HIDE</span> ALL UNUSED SPELLS');
+                $('.nav4').html('CLOSE');
                 
                 $('.spell-head').removeClass('slim');
                 
@@ -79,9 +79,16 @@ $( document ).ready(function() {
         });
     };
     
+    function closeStack(){
+        $('.stack').on('click', function(){
+            $(this).children().toggleClass('flat');
+        });
+    };
+    
     openList();
     openPage();
     openSpell();
     slim();
+    closeStack();
     
 });

@@ -1,26 +1,79 @@
 body {
     @media screen and (max-width: 600px) {
-        .nav {
+        
+        
+        .stack {
+            border-radius: 5px;
+            height: 40px;
+            margin: 50px auto 10px;
+            position: relative;
+            width: 95%;
             
-            background: #999999;
-            border-top: 8px solid #b3b3b3;
-            border-right: 8px solid #808080;
-            border-left: 8px solid #808080;
-            border-bottom: 8px solid #595959;
-            
-            color: #fff;
-            font-size: 20px;
-            margin: 20px auto 0;
-            padding: 20px 0;
-            text-align: center;
-            text-shadow: 4px -1px 4px rgba(0,0,0,0.7);
-            width: 90%;
-            
-            .large {
-                font-size: 36px;
-                text-shadow: 4px -3px 6px rgba(0,0,0,0.7);
+            .nav2 {
+                -webkit-transition: all 0.5s ease;
+                -moz-transition: all 0.5s ease;
+                -o-transition: all 0.5s ease;
+                transition: all 0.5s ease;
+                
+                background: #ffff00;
+                border-radius: 8px;
+                box-shadow: 0px 8px 15px 5px rgba(0,0,0,0.5);
+                height: 60px;
+                margin: 0 auto;
+                position: relative;
+                width: 80%;
+                top: 0px;
+                
+                &.flat {
+                    box-shadow: 0px 5px 8px 1px rgba(0,0,0,0.5);
+                    
+                    top: 0px;
+                    
+                }
+            }
+            .nav3 {
+                -webkit-transition: all 0.5s ease;
+                -moz-transition: all 0.5s ease;
+                -o-transition: all 0.5s ease;
+                transition: all 0.5s ease;
+                
+                background: #ff0000;
+                border-radius: 8px;
+                box-shadow: 0px 8px 15px 5px rgba(0,0,0,0.5);
+                height: 60px;
+                margin: 0 auto;
+                position: relative;
+                top: -78px;
+                width: 90%;
+                &.flat {
+                    box-shadow: 0px 5px 8px 1px rgba(0,0,0,0.5);
+                    top: -63px;
+                    width: 87%;
+                }
+            }
+            .nav4 {
+                -webkit-transition: all 0.5s ease;
+                -moz-transition: all 0.5s ease;
+                -o-transition: all 0.5s ease;
+                transition: all 0.5s ease;
+                
+                background: #ff00ff;
+                border-radius: 8px;
+                box-shadow: 0px 8px 15px 5px rgba(0,0,0,0.5);
+                height: 60px;
+                margin: 0 auto;
+                position: relative;
+                top: -160px;
+                width: 100%;
+                
+                &.flat {
+                    box-shadow: 0px 5px 8px 1px rgba(0,0,0,0.5);
+                    top: -129px;
+                    width: 97%;
+                }
             }
         }
+        
         .slim {
             display: none;
         }
