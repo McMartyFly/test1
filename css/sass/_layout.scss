@@ -1,5 +1,29 @@
 body {
     @media screen and (max-width: 600px) {
+        .nav {
+            
+            background: #999999;
+            border-top: 8px solid #b3b3b3;
+            border-right: 8px solid #808080;
+            border-left: 8px solid #808080;
+            border-bottom: 8px solid #595959;
+            
+            color: #fff;
+            font-size: 20px;
+            margin: 20px auto 0;
+            padding: 20px 0;
+            text-align: center;
+            text-shadow: 4px -1px 4px rgba(0,0,0,0.7);
+            width: 90%;
+            
+            .large {
+                font-size: 36px;
+                text-shadow: 4px -3px 6px rgba(0,0,0,0.7);
+            }
+        }
+        .slim {
+            display: none;
+        }
         .spell-list {
             padding: 20px 0;
             width: 100%;
@@ -239,6 +263,8 @@ body {
                             
                             margin: 15px auto 0px auto;
                             
+                            
+//                            wizard cantrips 
                             &.acid-splash {
                                 height: 248px;
                             }
@@ -287,7 +313,29 @@ body {
                             &.true-strike {
                                 height: 194px;
                             }
+                            
+                            
+//                            wizard 1st level
+                            &.alarm {
+                                height: 368px;
+                            }
+                            &.burning-hands {
+                                height: 322px;
+                            }
+                            &.charm-person {
+                                height: 355px;
+                            }
+                            &.chromatic-orb {
+                                height: 307px;
+                            }
                         }
+                        
+                        
+                        
+                        
+                        
+                        
+                        
                         
                         .title {
                             text-align: center;

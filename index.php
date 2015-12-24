@@ -9,7 +9,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" >
     </head>
     <body>
-        
+        <div class="nav">
+            PUSH TO <span class="large">CLOSE</span>
+        </div>
         <div class="spell-list">
             <div class="outer-wrap">
                 <div class="main war">Warlock</div>
@@ -54,6 +56,9 @@
                     </div>
                 </div>
                 
+                <!-- WIZARD CANTRIPS
+                                WIZARD CANTRIPS
+                                                WIZARD CANTRIPS -->
                 <ul class="cantrip page wiz">
                     <li>
                         <div class="spell-detail acid-splash">
@@ -248,12 +253,370 @@
                         <div class="spell-head wiz">True Strike</div>
                     </li>
                 </ul>
+                
+                <!-- 1ST LEVEL WIZARD
+                                1ST LEVEL WIZARD
+                                                1ST LEVEL WIZARD -->
                 <ul class="one page wiz">
                     <li>
-                        <div>other spells</div>
+                        <div class="spell-detail alarm">
+                            <div class="title bld">Alarm</div>
+                            <div class="sub">1st-level abjuration (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 minute</div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a tiny bell and piece of fine silver wire)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 8 hours</div>
+                            <div class="body">You set an alarm against unwanted instrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible.<br />&#160;&#160;A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.<br />&#160;&#160;An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.</div>
+                        </div>
+                        <div class="spell-head wiz">Alarm</div>
                     </li>
                     <li>
-                        <div>more spells</div>
+                        <div class="spell-detail burning-hands">
+                            <div class="title bld">Burning Hands</div>
+                            <div class="sub">1st-level evocation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self (15-foot cone)</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a falied save, or half as much damage on a successful one.<br />&#160;&#160;The fire ignites any flammable objects in the area that aren't being worn or carried.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</div>
+                        </div>
+                        <div class="spell-head wiz">Burning Hands</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail charm-person">
+                            <div class="title bld">Charm Person</div>
+                            <div class="sub">1st-level enchantment</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body">You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.</div>
+                        </div>
+                        <div class="spell-head wiz">Charm Person</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail chromatic-orb">
+                            <div class="title bld">Chromatic Orb</div>
+                            <div class="sub">1st-level evocation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span>90 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, m (a diamond worth at least 50 gp)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> Whenyou cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</div>
+                        </div>
+                        <div class="spell-head wiz">Chromatic Orb</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Color Spray</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Comprehend Languages</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Detect Magic</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Disguise Self</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Expeditious Retreat</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">False Life</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Feather Fall</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Find Familiar</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Fog Cloud</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Grease</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Identify</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Illusory Script</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Jump</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Longstrider</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Mage Armor</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Magic Missle</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Protection from Evil and Good</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Ray of Sickness</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Shield</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Silent Image</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Sleep</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Tasha's Hideous Laughter</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Tenser's Floating Disk</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Thunderwave</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Unseen Servant</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld"></div>
+                            <div class="sub"></div>
+                            <div class="casting"><span class="bld">Casting Time:</span></div>
+                            <div class="ranger"><span class="bld">Range:</span></div>
+                            <div class="components"><span class="bld">Components:</span></div>
+                            <div class="duration"><span class="bld">Duration:</span></div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="spell-head wiz">Witch Bolt</div>
                     </li>
                 </ul>
                 
@@ -267,7 +630,7 @@
 
 <!-- spell button and spell list
     <li>
-        <div class="spell-detail friends">
+        <div class="spell-detail">
             <div class="title bld"></div>
             <div class="sub"></div>
             <div class="casting"><span class="bld">Casting Time:</span></div>
@@ -276,7 +639,7 @@
             <div class="duration"><span class="bld">Duration:</span></div>
             <div class="body"></div>
         </div>
-        <div class="spell-head wiz">Friends</div>
+        <div class="spell-head wiz"></div>
     </li>
 
      -->

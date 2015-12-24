@@ -1,5 +1,7 @@
 $( document ).ready(function() {
     
+    var slimmed = 0;
+    
     function openList(){
         $('.main').on('click', function(){
             if($(this).hasClass('active')){
@@ -51,8 +53,35 @@ $( document ).ready(function() {
         });
     };
     
+    function slim(){
+        $('.nav').on('click', function(){
+            if (slimmed == 0){
+                
+                $('.nav').html('<span class="large">OPEN</span> ALL SPELLS');
+                
+                $('.spell-head').each(function(){
+                    $(this).addClass('slim');
+                    if($(this).siblings('.spell-detail').hasClass('open')){
+                        $(this).removeClass('slim');
+                    }
+                });
+                
+                slimmed = 1;
+            } else {
+                
+                $('.nav').html('PUSH TO <span class="large">CLOSE</span>');
+                
+                $('.spell-head').removeClass('slim');
+                
+                slimmed = 0;
+            }
+            
+        });
+    };
+    
     openList();
     openPage();
     openSpell();
+    slim();
     
 });
