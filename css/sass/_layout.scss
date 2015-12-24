@@ -189,7 +189,9 @@ body {
                 
                 li {
                     padding: 1px 0 0 0;
+                    position: relative;
                     text-align: center;
+                    
                     
                     .spell-head {
                         -webkit-transition: all 0.5s ease;
@@ -197,8 +199,10 @@ body {
                         -o-transition: all 0.5s ease;
                         transition: all 0.5s ease;
                         
+                        
+                        
                         font-size: 24px;
-                        letter-spacing: 8px;
+                        letter-spacing: 6px;
                         padding: 16px 0;
                         text-shadow: 0 0 1px #000;
                         
@@ -225,14 +229,14 @@ body {
                         
                         height: 0px;
                         margin: 0 auto;
-                        max-width: 281px;
+                        max-width: 280px;
                         overflow: hidden;
-                        padding: 0 0 0 3px;
+                        padding: 0 2px;
                         text-align: left;
                         
                         &.open {
                             box-shadow: 0px -4px 7px 3px rgba(0,0,0,0.4);
-                            height: 100px;
+                            
                             margin: 15px auto 0px auto;
                             
                             &.acid-splash {
@@ -240,6 +244,48 @@ body {
                             }
                             &.blade-ward {
                                 height: 185px;
+                            }
+                            &.chill-touch {
+                                height: 325px;
+                            }
+                            &.dancing-lights {
+                                height: 358px;
+                            }
+                            &.fire-bolt{
+                                height: 244px;
+                            }
+                            &.friends {
+                                height: 308px;
+                            }
+                            &.light {
+                                height: 307px;
+                            }
+                            &.mage-hand {
+                                height: 340px;
+                            }
+                            &.mending {
+                                height: 260px;
+                            }
+                            &.message {
+                                height: 323px;
+                            }
+                            &.minor-illusion {
+                                height: 546px;
+                            }
+                            &.poison-spray {
+                                height: 228px;
+                            }
+                            &.prestidigitation {
+                                height: 517px;
+                            }
+                            &.ray-of-frost {
+                                height: 243px;
+                            }
+                            &.shocking-grasp {
+                                height: 274px;
+                            }
+                            &.true-strike {
+                                height: 194px;
                             }
                         }
                         
