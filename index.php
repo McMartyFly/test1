@@ -10,7 +10,7 @@
     </head>
     <body>
         <div class="nav">
-            PUSH TO <span class="large">CLOSE</span>
+            PUSH TO <span class="large">CLOSE</span>ALL UNUSED SPELLS
         </div>
         <div class="spell-list">
             <div class="outer-wrap">

@@ -57,7 +57,7 @@ $( document ).ready(function() {
         $('.nav').on('click', function(){
             if (slimmed == 0){
                 
-                $('.nav').html('<span class="large">OPEN</span> ALL SPELLS');
+                $('.nav').html('<span class="large">SHOW</span> ALL SPELLS');
                 
                 $('.spell-head').each(function(){
                     $(this).addClass('slim');
@@ -69,7 +69,7 @@ $( document ).ready(function() {
                 slimmed = 1;
             } else {
                 
-                $('.nav').html('PUSH TO <span class="large">CLOSE</span>');
+                $('.nav').html('PUSH TO <span class="large">HIDE</span> ALL UNUSED SPELLS');
                 
                 $('.spell-head').removeClass('slim');
                 
