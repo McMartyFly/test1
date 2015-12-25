@@ -3,78 +3,72 @@ body {
         padding: 0 0 10px 0;
         
         .stack {
-            border-radius: 5px;
-            height: 40px;
-            margin: 65px auto 35px;
+            background: #aaa;
+            border-radius: 25px;
+            box-shadow: 0px -3px 1px 1px rgba(0,0,0,0.5);
+            height: 70px;
+            margin: 20px auto 5px;
             position: relative;
             width: 95%;
             
-            .nav2 {
-                -webkit-transition: all 0.5s ease;
-                -moz-transition: all 0.5s ease;
-                -o-transition: all 0.5s ease;
-                transition: all 0.5s ease;
+            .slider {
+                -webkit-transition: all 0.7s ease;
+                -moz-transition: all 0.7s ease;
+                -o-transition: all 0.7s ease;
+                transition: all 0.7s ease;
                 
-                background: #e62e00;
-                border-radius: 8px;
-                box-shadow: 0px 8px 15px 5px rgba(0,0,0,0.5);
-                height: 60px;
-                margin: 0 auto;
-                position: relative;
-                width: 80%;
-                top: 0px;
+                background: #e6e6e6;
+                border-radius: 25px;
+                box-shadow: 0px 14px 12px -4px rgba(0,0,0,0.5);
+                height: 70px;
+                left: 0px;
+                position: absolute;
+                top: -10px;
+                width: 25%;
                 
-                &.flat {
-                    box-shadow: 0px 5px 2px 0px rgba(0,0,0,0.5);
+                .eye {
+                    -webkit-transition: all 0.7s ease;
+                    -moz-transition: all 0.7s ease;
+                    -o-transition: all 0.7s ease;
+                    transition: all 0.7s ease;
                     
-                    top: 0px;
+                    background: #fff;
+                    border-radius: 50%;
+                    height: 10px;
+                    margin: 7px auto;
+                    position: relative;
+                    width: 55px;
+                    
+                    &.top {
+                        top: 3px;
+                    }
+                    &.mid {
+                        top: 6px;
+                    }
+                    &.bot {
+                        top: 9px;
+                    }
+                }
+                
+                &.right {
+                    left: 75%;
+                    
+                    .eye {
+                        
+                        &.top {
+                            top: 15px;
+                        }
+                        &.mid {
+                            top: 6px;
+                        }
+                        &.bot {
+                            top: -3px;
+                        }
+                    }
                     
                 }
             }
-            .nav3 {
-                -webkit-transition: all 0.5s ease;
-                -moz-transition: all 0.5s ease;
-                -o-transition: all 0.5s ease;
-                transition: all 0.5s ease;
-                
-                background: #bb99ff;
-                border-radius: 8px;
-                box-shadow: 0px 8px 15px 5px rgba(0,0,0,0.5);
-                height: 60px;
-                margin: 0 auto;
-                position: relative;
-                top: -78px;
-                width: 90%;
-                &.flat {
-                    box-shadow: 0px 5px 2px 0px rgba(0,0,0,0.5);
-                    background: #7733ff;
-                    top: -65px;
-                    width: 84%;
-                }
-            }
-            .nav4 {
-                -webkit-transition: all 0.5s ease;
-                -moz-transition: all 0.5s ease;
-                -o-transition: all 0.5s ease;
-                transition: all 0.5s ease;
-                
-                background: #8cd9b3;
-                border-radius: 8px;
-                box-shadow: 0px 8px 15px 5px rgba(0,0,0,0.5);
-                height: 67px;
-                margin: 0 auto;
-                position: relative;
-                top: -167px;
-                width: 100%;
-                
-                &.flat {
-                    box-shadow: 0px 5px 2px 0px rgba(0,0,0,0.5);
-                    background: #39ac73;
-                    height: 55px;
-                    top: -128px;
-                    width: 88%;
-                }
-            }
+            
         }
         
         

@@ -55,6 +55,7 @@ $( document ).ready(function() {
     
     function slim(){
         $('.stack').on('click', function(){
+            $('.slider').toggleClass('right');
             if (slimmed == 0){
                 
                 

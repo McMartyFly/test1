@@ -9,18 +9,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" >
     </head>
     <body>
-        
         <div class="stack">
-            <div class="nav2">
-            
+            <div class="slider">
+                <div class="eye top"></div>
+                <div class="eye mid"></div>
+                <div class="eye bot"></div>
             </div>
-            <div class="nav3">
-            
-            </div>
-            <div class="nav4">
-                
-            </div>
-            <div class='clb'></div>
         </div>
         
         <div class="spell-list">
