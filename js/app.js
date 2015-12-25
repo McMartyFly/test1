@@ -57,7 +57,8 @@ $( document ).ready(function() {
         $('.stack').on('click', function(){
             if (slimmed == 0){
                 
-                $('.nav4').html('OPEN');
+                
+                
                 
                 $('.spell-head').each(function(){
                     $(this).addClass('slim');
@@ -69,7 +70,7 @@ $( document ).ready(function() {
                 slimmed = 1;
             } else {
                 
-                $('.nav4').html('CLOSE');
+                
                 
                 $('.spell-head').removeClass('slim');
                 
@@ -81,7 +82,8 @@ $( document ).ready(function() {
     
     function closeStack(){
         $('.stack').on('click', function(){
-            $(this).children().toggleClass('flat');
+            $('.stack').children().toggleClass('flat');
+            
         });
     };
     
