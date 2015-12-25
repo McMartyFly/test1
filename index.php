@@ -318,74 +318,75 @@
                         <div class="spell-head wiz">Chromatic Orb</div>
                     </li>
                     <li>
-                        <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                        <div class="spell-detail color-spray">
+                            <div class="title bld">Color Spray</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self (15-foot)</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 round</div>
+                            <div class="body">A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can't see).<br />&#160;&#160;Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the spell ends. Subtrack each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a slepll slot of 2nd level or higher, roll and additional 2d10 for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">Color Spray</div>
                     </li>
                     <li>
-                        <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                        <div class="spell-detail comprehend-languages">
+                            <div class="title bld">Comprehend Languages</div>
+                            <div class="sub">1st-level divination</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a pinch of soot and salt)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body">For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.<br />&#160;&#160;This spell doesn't decode secret messages in a text or glyph, such as an arcane sigil, that isn't part of a written language.</div>
                         </div>
                         <div class="spell-head wiz">Comprehend Languages</div>
                     </li>
                     <li>
-                        <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                        
+                        <div class="spell-detail detect-magic">
+                            <div class="title bld">Detect Magic</div>
+                            <div class="sub">1st-level divination (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 10 minutes</div>
+                            <div class="body">For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.<br />&#160;&#160;The spell can penetrate most barriers, but it is blockd by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</div>
                         </div>
                         <div class="spell-head wiz">Detect Magic</div>
                     </li>
                     <li>
-                        <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                        <div class="spell-detail disguise-self">
+                            <div class="title bld">Disguise Self</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body">You make yourself -- including your clothing, armor, weapons, and other belongings on your person -- look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't  change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.<br />&#160;&#160;The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.<br />&#160;&#160;To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.</div>
                         </div>
                         <div class="spell-head wiz">Disguise Self</div>
                     </li>
                     <li>
-                        <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                        <div class="spell-detail expeditious-retreat">
+                            <div class="title bld">Expeditious Retreat</div>
+                            <div class="sub">1st-level transmutation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 bonus action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 10 minutes</div>
+                            <div class="body">This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.</div>
                         </div>
                         <div class="spell-head wiz">Expeditious Retreat</div>
                     </li>
                     <li>
-                        <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                        <div class="spell-detail false-life">
+                            <div class="title bld">False Life</div>
+                            <div class="sub">1st-level necromancy</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a smell amount of alcohol or distilled spirits)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body">Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">False Life</div>
                     </li>
