@@ -48,7 +48,23 @@ $( document ).ready(function() {
     
     function openSpell(){
         $('.spell-head').on('click', function(){
+            
+            
+            
+            if($(this).hasClass('on')){
+                $(this).siblings('.spell-detail').css({'height': '0px'});
+            } else {
+                var maxH = $(this).siblings('.spell-detail').css({ 'height': 'auto'}).height();
+                $(this).siblings('.spell-detail').css({'height': '0px'});
+                // $(this).siblings('.spell-detail').css({'height': maxH });
+                $(this).siblings('.spell-detail').animate({
+                    height: maxH
+                }, 0, function(){
+                
+                });
+            }
             $(this).toggleClass('on');
+            
             $(this).siblings('.spell-detail').toggleClass('open');
         });
     };
