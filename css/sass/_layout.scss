@@ -85,7 +85,7 @@ body {
             }
             
             .outer-wrap {
-                
+                margin: 18px 0 0;
             }
             
             .main {
@@ -257,8 +257,13 @@ body {
                 
                 width: 95%;
                 
+//                WHOLE PAGE BG COLORS
+                
                 &.wiz {
                     background: #666699;
+                }
+                &.war {
+                    background: #4d0000;
                 }
                 
                 &.show {
@@ -284,14 +289,23 @@ body {
                         padding: 16px 0;
                         text-shadow: 0 0 1px #000;
                         
+                        
+//                        SPELL BUTTON LABEL BY CLASS
+                        
                         &.wiz {
-                            box-shadow: 0px 3px 3px 0px #52527a;
+                            box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
                             color: #b2b300;
-                            
                             &.on {
-                                
                                 color: #ffff00;
                                 text-shadow: 0 0 18px #ffff00;
+                            }
+                        }
+                        &.war {
+                            box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
+                            color: #9900cc;
+                            &.on {
+                                color: #ff00ff;
+                                text-shadow: 0 0 18px #ff00ff;
                             }
                         }
                     }
@@ -305,7 +319,6 @@ body {
                         background: #fff;
                         border-radius: 10px;
                         
-//                        display: none;
                         
                         font-size: 16px;
                         height: 0px;
@@ -317,94 +330,8 @@ body {
                         
                         &.open {
                             box-shadow: 0px -4px 7px 3px rgba(0,0,0,0.4);
-                            
-//                            height: 0px;
-                            
                             margin: 15px auto 0px auto;
                             
-                            
-//                            wizard cantrips 
-                            //&.acid-splash {
-//                                height: 248px;
-//                            }
-//                            &.blade-ward {
-//                                height: 185px;
-//                            }
-//                            &.chill-touch {
-//                                height: 325px;
-//                            }
-//                            &.dancing-lights {
-//                                height: 358px;
-//                            }
-//                            &.fire-bolt{
-//                                height: 244px;
-//                            }
-//                            &.friends {
-//                                height: 308px;
-//                            }
-//                            &.light {
-//                                height: 307px;
-//                            }
-//                            &.mage-hand {
-//                                height: 340px;
-//                            }
-//                            &.mending {
-//                                height: 260px;
-//                            }
-//                            &.message {
-//                                height: 323px;
-//                            }
-//                            &.minor-illusion {
-//                                height: 546px;
-//                            }
-//                            &.poison-spray {
-//                                height: 228px;
-//                            }
-//                            &.prestidigitation {
-//                                height: 517px;
-//                            }
-//                            &.ray-of-frost {
-//                                height: 243px;
-//                            }
-//                            &.shocking-grasp {
-//                                height: 274px;
-//                            }
-//                            &.true-strike {
-//                                height: 194px;
-//                            }
-//
-//
-////                            wizard 1st level
-//                            &.alarm {
-//                                height: 368px;
-//                            }
-//                            &.burning-hands {
-//                                height: 322px;
-//                            }
-//                            &.charm-person {
-//                                height: 355px;
-//                            }
-//                            &.chromatic-orb {
-//                                height: 307px;
-//                            }
-//                            &.color-spray {
-//                                height: 466px;
-//                            }
-//                            &.comprehend-languages {
-//                                height: 275px;
-//                            }
-//                            &.detect-magic {
-//                                height: 272px;
-//                            }
-//                            &.disguise-self {
-//                                height: 516px;
-//                            }
-//                            &.expeditious-retreat {
-//                                height: 178px;
-//                            }
-//                            &.false-life {
-//                                height: 229px;
-//                            }
                         }
                         
                         
