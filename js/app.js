@@ -42,6 +42,8 @@ $( document ).ready(function() {
                 $(this).closest('.index-wrap').siblings('.page.eight').addClass('show');
             } else if ($(this).hasClass('nine')){
                 $(this).closest('.index-wrap').siblings('.page.nine').addClass('show');
+            } else if ($(this).hasClass('invocation')){
+                $(this).closest('.index-wrap').siblings('.page.invocation').addClass('show');
             }
         });
     };

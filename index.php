@@ -20,7 +20,7 @@
         <div class="spell-list">
             <div class="outer-wrap">
                 <div class="main war">Warlock</div>
-                <div class="index-wrap">
+                <div class="index-wrap war">
                     <div class="index-row top">
                         <div class="index war cantrip">C</div>
                         <div class="index war one">1</div>
@@ -35,9 +35,268 @@
                         <div class="index war">7</div>
                         <div class="index war">8</div>
                         <div class="index war">9</div>
+                        <div class="index war invocation">Invocations</div>
                         <div class="clb"></div>
                     </div>
                 </div>
+                <ul class="invocation page war">
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Agonizing Blast</div>
+                            <div class="sub">Prerequisite: eldritch blast cantrip</div>
+                            <div class="body">When you cast eldritch blast, add you Charisma modifier to the damage it deals on a hit.</div>
+                        </div>
+                        <div class="spell-head war">Agonizing Blast</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Armor of Shadows</div>
+                            <div class="sub"></div>
+                            <div class="body">You can cast mage armor on yourself at will, without expending a spell slot or material components.</div>
+                        </div>
+                        <div class="spell-head war">Armor of Shadows</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Ascendant Step</div>
+                            <div class="sub">Prerequisite: 9th level</div>
+                            <div class="body">You can cast levitate on yourself at will, without expending a spell slot or material components.</div>
+                        </div>
+                        <div class="spell-head war">Ascendant Step</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Beast Speech</div>
+                            <div class="sub"></div>
+                            <div class="body">You can cast speak with animals at will, without expending a spell slot.</div>
+                        </div>
+                        <div class="spell-head war">Beast Speech</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Beguiling Influence</div>
+                            <div class="sub"></div>
+                            <div class="body">You gain proficiency in the Deception and Persuasion skills.</div>
+                        </div>
+                        <div class="spell-head war">Beguiling Influence</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Bewitching Whispers</div>
+                            <div class="sub">Prerequisite: 7th level</div>
+                            <div class="body">You can cast compulsion once using a warlock spell slot.<br />You cant't do so again until you finish a long rest.</div>
+                        </div>
+                        <div class="spell-head war">Bewitching Whispers</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Book of Ancient Secrets</div>
+                            <div class="sub">Prerequisite: Pact of the Tome feature</div>
+                            <div class="body">You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.<br />&#160;&#160;On your adventures , you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50gp for the rare inks needed to inscribe it.</div>
+                        </div>
+                        <div class="spell-head war">Book of Ancient Secrets</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Chains of Carceri</div>
+                            <div class="sub">Prerequisite: 15th level, Pact of the Chain feature</div>
+                            <div class="body">You can cast hold monster at will -- targeting a celestial, fiend, or elemental -- without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</div>
+                        </div>
+                        <div class="spell-head war">Chains of Carceri</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Devil's Sight</div>
+                            <div class="sub"></div>
+                            <div class="body">You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</div>
+                        </div>
+                        <div class="spell-head war">Devil's Sight</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Dreadful Word</div>
+                            <div class="sub">Prerequisite: 7th level</div>
+                            <div class="body">You can cast confusion once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
+                        </div>
+                        <div class="spell-head war">Dreadful Word</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Eldritch Sight</div>
+                            <div class="sub"></div>
+                            <div class="body">You can cast detect magic at will, without expending a spell slot.</div>
+                        </div>
+                        <div class="spell-head war">Eldritch Sight</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Eldritch Spear</div>
+                            <div class="sub">Prerequisite: eldritch blast cantrip</div>
+                            <div class="body">When you cast eldritch blast, its range is 300 feet.</div>
+                        </div>
+                        <div class="spell-head war">Eldritch Spear</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Eyes of the Rune Keeper</div>
+                            <div class="sub"></div>
+                            <div class="body">You can read all writing.</div>
+                        </div>
+                        <div class="spell-head war">Eyes of the Rune Keeper</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Fiendish Vigor</div>
+                            <div class="sub"></div>
+                            <div class="body">You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.</div>
+                        </div>
+                        <div class="spell-head war">Fiendish Vigor</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Gaze of Two Minds</div>
+                            <div class="sub"></div>
+                            <div class="body">You can use your action to touch a willing humanioid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn.<br />While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.</div>
+                        </div>
+                        <div class="spell-head war">Gze of Two Minds</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Lifedrinker</div>
+                            <div class="sub">Prerequisite: 12th level, Pact of the Blade feature</div>
+                            <div class="body">When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your CHarisma modifier (minimum 1).</div>
+                        </div>
+                        <div class="spell-head war">Lifedrinker</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Mask of Many Faces</div>
+                            <div class="sub"></div>
+                            <div class="body">You can cast disguise self at will, without expending a spell slot.</div>
+                        </div>
+                        <div class="spell-head war">Mask of Many Faces</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Master of Myriad Forms</div>
+                            <div class="sub">Prerequisite: 15th level</div>
+                            <div class="body">You can cast alter self at will, without expending a spell slot.</div>
+                        </div>
+                        <div class="spell-head war">Master of Myriad Forms</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Minions of Chaos</div>
+                            <div class="sub">Prerequisite: 9th level</div>
+                            <div class="body">You can cast conjure elemental once using a warlock spell slot. You can't do so again until you finish a long rest.</div>
+                        </div>
+                        <div class="spell-head war">Minions of Chaos</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Mire the Mind</div>
+                            <div class="sub">Prerequisite: 5th level</div>
+                            <div class="body">You can cast slow once using a warlock spell slsot. You can't do again until you finish a long rest.</div>
+                        </div>
+                        <div class="spell-head war">Mire the Mind</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Misty Visions</div>
+                            <div class="sub"></div>
+                            <div class="body">You can cast silent image at will, without expending a spell slot or material components.</div>
+                        </div>
+                        <div class="spell-head war">Misty Visions</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">One with Shadows</div>
+                            <div class="sub">Prerequisite: 5th level</div>
+                            <div class="body">When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.</div>
+                        </div>
+                        <div class="spell-head war">One with Shadows</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Otherworldly Leap</div>
+                            <div class="sub">Prerequisite: 9th level</div>
+                            <div class="body">You can cast jump on yourself at will, without expending a spell slot or material components.</div>
+                        </div>
+                        <div class="spell-head war">Otherworldly Leap</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Repelling Blast</div>
+                            <div class="sub">Prerequisite: eldritch blast cantrip</div>
+                            <div class="body">When you hit a creature with eldritch blasat, you can push the creature up to 10 feet away from you in a straight line.</div>
+                        </div>
+                        <div class="spell-head war">Repelling Blast</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Sculptor of Flesh</div>
+                            <div class="sub">Prerequisite: 7th level</div>
+                            <div class="body">You can cast polymorph once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
+                        </div>
+                        <div class="spell-head war">Sculptor of Flesh</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Sign of Ill Omen</div>
+                            <div class="sub">Prerequisite: 5th level</div>
+                            <div class="body">You can cast bestow curse once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
+                        </div>
+                        <div class="spell-head war">Sign of Ill Omen</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Thief of Five Fates</div>
+                            <div class="sub"></div>
+                            <div class="body">You can cast bane once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
+                        </div>
+                        <div class="spell-head war">Thief of Five Fates</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Thirsting Blade</div>
+                            <div class="sub">Prerequisite: 5th level, Pact of the Blade feature</div>
+                            <div class="body">You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.</div>
+                        </div>
+                        <div class="spell-head war">Thirsting Blade</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Visions of Distant Realms</div>
+                            <div class="sub">Prerequisite: 15th level</div>
+                            <div class="body">You can cast arcane eye at will, without expending a spell slot.</div>
+                        </div>
+                        <div class="spell-head war">Visions of Distant Realms</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Voice of the Chain Master</div>
+                            <div class="sub">Prerequisite: Pact of the Chain feature</div>
+                            <div class="body">You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same place of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.</div>
+                        </div>
+                        <div class="spell-head war">Voice of the Chain Master</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Whispers of the Grave</div>
+                            <div class="sub">Prerequisite: 9th level</div>
+                            <div class="body">You can cast speak with dead at will, without expending a spell slot.</div>
+                        </div>
+                        <div class="spell-head war">Whispers of the Grave</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Witch Sight</div>
+                            <div class="sub">Prerequisite: 15th level</div>
+                            <div class="body">You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</div>
+                        </div>
+                        <div class="spell-head war">Witch Sight</div>
+                    </li>
+                </ul>
                 <ul class="cantrip page war">
                     <li>
                         <div class="spell-detail">
@@ -199,6 +458,18 @@
                     </li>
                     <li>
                         <div class="spell-detail">
+                            <div class="title bld">Dissonant Whispers</div>
+                            <div class="sub">1st-level enchantment</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obiously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</div>
+                        </div>
+                        <div class="spell-head war">Dissonant Whispers</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
                             <div class="title bld">Expeditious Retreat</div>
                             <div class="sub">1st-level transmutation</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 bonus action</div>
@@ -256,6 +527,18 @@
                             <div class="body"> Until the spell ends, one willing creature you touch is protected against cenrtain types of creatures: abberations, celectials, elementals, fey, fiends, and undead.<br />&#160;&#160;The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.</div>
                         </div>
                         <div class="spell-head war">Protection from Evil and Good</div>
+                    </li>
+                    <li>
+                        <div class="spell-detail">
+                            <div class="title bld">Tasha's Hideous Laughter</div>
+                            <div class="sub">1st-level enchantment</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (tiny tarts and a feather that is waved in the air)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.<br />&#160;&#160;At the end of each of its turns, and each time it takes damage, the target can make another WIsdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.</div>
+                        </div>
+                        <div class="spell-head war">Tasha's Hideous Laughter</div>
                     </li>
                     <li>
                         <div class="spell-detail">

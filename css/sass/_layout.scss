@@ -149,6 +149,10 @@ body {
                 
                 &.open {
                     height: 171px;
+                    
+                    &.war {
+                        height: 252px;
+                    }
                 }
                 
                 .index-row {
@@ -161,7 +165,12 @@ body {
                         -o-transition: all 0.5s ease;
                         transition: all 0.5s ease;
                         
-                        
+                        &.invocation {
+                            font-size: 40px;
+                            text-transform: uppercase;
+                            padding: 15px 0;
+                            width: 69%;
+                        }
                         
                         border-radius: 10px;
                         display: inline-block;
