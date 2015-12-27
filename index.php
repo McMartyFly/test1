@@ -66,12 +66,12 @@
                     <li>
                         <div class="spell-detail">
                             <div class="title bld">Eldritch Blast</div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="sub">Evocation cantrip</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 120 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.<br />&#160;&#160;The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a sparate attack roll for each beam.</div>
                         </div>
                         <div class="spell-head war">Eldritch Blast</div>
                     </li>
