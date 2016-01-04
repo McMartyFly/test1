@@ -677,7 +677,7 @@
                         <div class="spell-head wiz">Light</div>
                     </li>
                     <li>
-                        <div class="spell-detail mage-hand">
+                        <div class="spell-detail">
                             <div class="title bld">Mage Hand</div>
                             <div class="sub">Conjuration cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -689,7 +689,7 @@
                         <div class="spell-head wiz">Mage Hand</div>
                     </li>
                     <li>
-                        <div class="spell-detail mending">
+                        <div class="spell-detail">
                             <div class="title bld">Mending</div>
                             <div class="sub">Transmutation cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 minute</div>
@@ -701,7 +701,7 @@
                         <div class="spell-head wiz">Mending</div>
                     </li>
                     <li>
-                        <div class="spell-detail message">
+                        <div class="spell-detail">
                             <div class="title bld">Message</div>
                             <div class="sub">Transmutation cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -713,7 +713,7 @@
                         <div class="spell-head wiz">Message</div>
                     </li>
                     <li>
-                        <div class="spell-detail minor-illusion">
+                        <div class="spell-detail">
                             <div class="title bld">Minor Illusion</div>
                             <div class="sub">Illusion cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -725,7 +725,7 @@
                         <div class="spell-head wiz">Minor Illusion</div>
                     </li>
                     <li>
-                        <div class="spell-detail poison-spray">
+                        <div class="spell-detail">
                             <div class="title bld">Poison Spray</div>
                             <div class="sub">Conjuration cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -737,7 +737,7 @@
                         <div class="spell-head wiz">Poison Spray</div>
                     </li>
                     <li>
-                        <div class="spell-detail prestidigitation">
+                        <div class="spell-detail">
                             <div class="title bld">Prestidigitation</div>
                             <div class="sub">Transmutation cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -749,7 +749,7 @@
                         <div class="spell-head wiz">Prestidigitation</div>
                     </li>
                     <li>
-                        <div class="spell-detail ray-of-frost">
+                        <div class="spell-detail">
                             <div class="title bld">Ray of Frost</div>
                             <div class="sub">Evocation cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -761,7 +761,7 @@
                         <div class="spell-head wiz">Ray of Frost</div>
                     </li>
                     <li>
-                        <div class="spell-detail shocking-grasp">
+                        <div class="spell-detail">
                             <div class="title bld">Shocking Grasp</div>
                             <div class="sub">Evocation cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -773,7 +773,7 @@
                         <div class="spell-head wiz">Shocking Grasp</div>
                     </li>
                     <li>
-                        <div class="spell-detail true-strike">
+                        <div class="spell-detail">
                             <div class="title bld">True Strike</div>
                             <div class="sub">Divination cantrip</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -791,7 +791,7 @@
                                                 1ST LEVEL WIZARD -->
                 <ul class="one page wiz">
                     <li>
-                        <div class="spell-detail alarm">
+                        <div class="spell-detail">
                             <div class="title bld">Alarm</div>
                             <div class="sub">1st-level abjuration (ritual)</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 minute</div>
@@ -803,7 +803,7 @@
                         <div class="spell-head wiz">Alarm</div>
                     </li>
                     <li>
-                        <div class="spell-detail burning-hands">
+                        <div class="spell-detail">
                             <div class="title bld">Burning Hands</div>
                             <div class="sub">1st-level evocation</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -815,7 +815,7 @@
                         <div class="spell-head wiz">Burning Hands</div>
                     </li>
                     <li>
-                        <div class="spell-detail charm-person">
+                        <div class="spell-detail">
                             <div class="title bld">Charm Person</div>
                             <div class="sub">1st-level enchantment</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -827,7 +827,7 @@
                         <div class="spell-head wiz">Charm Person</div>
                     </li>
                     <li>
-                        <div class="spell-detail chromatic-orb">
+                        <div class="spell-detail">
                             <div class="title bld">Chromatic Orb</div>
                             <div class="sub">1st-level evocation</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -839,7 +839,7 @@
                         <div class="spell-head wiz">Chromatic Orb</div>
                     </li>
                     <li>
-                        <div class="spell-detail color-spray">
+                        <div class="spell-detail">
                             <div class="title bld">Color Spray</div>
                             <div class="sub">1st-level illusion</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -851,7 +851,7 @@
                         <div class="spell-head wiz">Color Spray</div>
                     </li>
                     <li>
-                        <div class="spell-detail comprehend-languages">
+                        <div class="spell-detail">
                             <div class="title bld">Comprehend Languages</div>
                             <div class="sub">1st-level divination</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -864,7 +864,7 @@
                     </li>
                     <li>
                         
-                        <div class="spell-detail detect-magic">
+                        <div class="spell-detail">
                             <div class="title bld">Detect Magic</div>
                             <div class="sub">1st-level divination (ritual)</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -876,7 +876,7 @@
                         <div class="spell-head wiz">Detect Magic</div>
                     </li>
                     <li>
-                        <div class="spell-detail disguise-self">
+                        <div class="spell-detail">
                             <div class="title bld">Disguise Self</div>
                             <div class="sub">1st-level illusion</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -888,7 +888,7 @@
                         <div class="spell-head wiz">Disguise Self</div>
                     </li>
                     <li>
-                        <div class="spell-detail expeditious-retreat">
+                        <div class="spell-detail">
                             <div class="title bld">Expeditious Retreat</div>
                             <div class="sub">1st-level transmutation</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 bonus action</div>
@@ -900,7 +900,7 @@
                         <div class="spell-head wiz">Expeditious Retreat</div>
                     </li>
                     <li>
-                        <div class="spell-detail false-life">
+                        <div class="spell-detail">
                             <div class="title bld">False Life</div>
                             <div class="sub">1st-level necromancy</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
@@ -913,205 +913,205 @@
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Feather Fall</div>
+                            <div class="sub">1st-level transmutation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 reaction, which you take when you or a creature within 60 feet of you falls</div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, M (a small feather or piece of down)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 minute</div>
+                            <div class="body">Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.</div>
                         </div>
                         <div class="spell-head wiz">Feather Fall</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Find Familiar</div>
+                            <div class="sub">1st-level conjuration (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 hour</div>
+                            <div class="ranger"><span class="bld">Range:</span> 10 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog(toad), hawk, lizard, octopus, owl, poisonous snake, fish(quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend(your choice) instead of a beast.<br />&#160;&#160;Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.<br />&#160;&#160;When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.<br />&#160;&#160;While your familiar is wihin 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.<br />&#160;&#160;As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.<br />&#160;&#160;You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.<br />&#160;&#160;<br />Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll. you use your attack modifier for the roll.</div>
                         </div>
                         <div class="spell-head wiz">Find Familiar</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Fog Cloud</div>
+                            <div class="sub">1st-level conjuration</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 120 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 hour</div>
+                            <div class="body">You create a 20-foot-radius of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">Fog Cloud</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Grease</div>
+                            <div class="sub">1st-level conjuration</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a bit of pork rind or butter)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 minute</div>
+                            <div class="body">Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.<br />&#160;&#160;When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone.</div>
                         </div>
                         <div class="spell-head wiz">Grease</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Identify</div>
+                            <div class="sub">1st-level divination (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 minute</div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a pearl worth at least 100 gp and an owl feather)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">You choose on object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.<br />&#160;&#160;If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</div>
                         </div>
                         <div class="spell-head wiz">Identify</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Illusory Script</div>
+                            <div class="sub">1st-level illusion (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 minute</div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                            <div class="components"><span class="bld">Components:</span> S, M (a lead-based ink worth at least 10gp, which the spell consumes)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 10 days</div>
+                            <div class="body">You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.<br />&#160;&#160;To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.<br />&#160;&#160;Should the spell be dispelled, the original script and the illusion both disappear.<br />&#160;&#160;A creature with truesight can read the hidden message.</div>
                         </div>
                         <div class="spell-head wiz">Illusory Script</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Jump</div>
+                            <div class="sub">1st-level transmutation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a grasshopper's hind leg)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 minute</div>
+                            <div class="body">You touch a creature. The creature's jump distance is tripled until the spell ends.</div>
                         </div>
                         <div class="spell-head wiz">Jump</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Longstrider</div>
+                            <div class="sub">1st-level transmutation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a pinch of dirt)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body"> You touch a creature. The target's speed increases by 10 feet until the spell ends.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">Longstrider</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Mage Armor</div>
+                            <div class="sub">1st-level abjuration</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a piece of cured leather)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 8 hours</div>
+                            <div class="body">You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.</div>
                         </div>
                         <div class="spell-head wiz">Mage Armor</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Magic Missle</div>
+                            <div class="sub">1st-level evocation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 120 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">You create three glowing darts of magical force. Each dart hits a creature of your choise that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">Magic Missle</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Protection from Evil and Good</div>
+                            <div class="sub">1st-level abjuration</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (holy water or powdered silver and iron, which the spell consumes)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration up to 10 minutes</div>
+                            <div class="body">Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.<br />&#160;&#160;The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.</div>
                         </div>
                         <div class="spell-head wiz">Protection from Evil and Good</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Ray of Sickness</div>
+                            <div class="sub">1st-level necromancy</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">Ray of Sickness</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Shield</div>
+                            <div class="sub">1st-level abjuration</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 reaction, which you take when you are hit by an attack or targeted by the magic missle spell</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 round</div>
+                            <div class="body">An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missle.</div>
                         </div>
                         <div class="spell-head wiz">Shield</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Silent Image</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a bit of fleece)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 10 minutes</div>
+                            <div class="body">You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.<br />&#160;&#160;You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.<br />&#160;&#160;Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.</div>
                         </div>
                         <div class="spell-head wiz">Silent Image</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Sleep</div>
+                            <div class="sub">1st-level enchantment</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 90 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a pinch of fine sand, rose petals, or a cricket)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 minute</div>
+                            <div class="body">This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).<br />&#160;&#160;Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creatures's hit points must be equal to or less than the remaining total for that creature to be affected.<br />&#160;&#160;Undead and creatures immune to being charmed aren't affected by this spell.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">Sleep</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Tasha's Hideous Laughter</div>
+                            <div class="sub">1st-level enchantment</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (tiny tarts and a feather that is waved in the air)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isnt't affected.<br />&#160;&#160;At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.</div>
                         </div>
                         <div class="spell-head wiz">Tasha's Hideous Laughter</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Tenser's Floating Disk</div>
+                            <div class="sub">1st-level conjuration (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a drop of mercury)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body">This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.<br />&#160;&#160;The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. If can move across uneven terrain, up or down stairs, slopes and the like, but it can't cross an elevation change of 10 feet or more. For example, the disk can't move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.<br />&#160;&#160;If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.</div>
                         </div>
                         <div class="spell-head wiz">Tenser's Floating Disk</div>
                     </li>
@@ -1129,25 +1129,25 @@
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Unseen Servant</div>
+                            <div class="sub">1st-level conjuration (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a piece of string and a bit of wood)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body">This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.<br />&#160;&#160;Once on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.<br />&#160;&#160;If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.</div>
                         </div>
                         <div class="spell-head wiz">Unseen Servant</div>
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Witch Bolt</div>
+                            <div class="sub">1st-level evocation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a twig from a tree that has been struck by lightning)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell's range or if it has total cover from you.<br />&#160;&#160;<span class="bld">At Higher Levels.</span>When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">Witch Bolt</div>
                     </li>
