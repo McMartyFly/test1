@@ -53,6 +53,14 @@
                             <div class="title bld">Armor of Shadows</div>
                             <div class="sub"></div>
                             <div class="body">You can cast mage armor on yourself at will, without expending a spell slot or material components.</div>
+                            <br />
+                            <div class="title bld">Mage Armor</div>
+                            <div class="sub">1st-level abjuration</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a piece of cured leather)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 8 hours</div>
+                            <div class="body">You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.</div>
                         </div>
                         <div class="spell-head war">Armor of Shadows</div>
                     </li>
@@ -61,6 +69,14 @@
                             <div class="title bld">Ascendant Step</div>
                             <div class="sub">Prerequisite: 9th level</div>
                             <div class="body">You can cast levitate on yourself at will, without expending a spell slot or material components.</div>
+                            <br />
+                            <div class="title bld">Levitate</div>
+                            <div class="sub">2nd-level transmutation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 10 minutes</div>
+                            <div class="body">Once creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weights up to 500 pounds. An unwilling creature that succeeds on a Constitution saving thwo is unaffected.<br />&#160;&#160;The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of you move. Otherwise, you can use your action to move the target, which must remain within the spell's range.<br >&#160;&#160;When the spell ends, the target floats gently to the ground if it is still aloft.</div>
                         </div>
                         <div class="spell-head war">Ascendant Step</div>
                     </li>
@@ -69,6 +85,14 @@
                             <div class="title bld">Beast Speech</div>
                             <div class="sub"></div>
                             <div class="body">You can cast speak with animals at will, without expending a spell slot.</div>
+                            <br />
+                            <div class="title bld">Speak With Animals</div>
+                            <div class="sub">1st-level divination (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 10 minutes</div>
+                            <div class="body">You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.</div>
                         </div>
                         <div class="spell-head war">Beast Speech</div>
                     </li>
@@ -85,6 +109,14 @@
                             <div class="title bld">Bewitching Whispers</div>
                             <div class="sub">Prerequisite: 7th level</div>
                             <div class="body">You can cast compulsion once using a warlock spell slot.<br />You cant't do so again until you finish a long rest.</div>
+                            <br />
+                            <div class="title bld">Compulsion</div>
+                            <div class="sub">4th-level enchantment</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving to try to end the effect.<br />&#160;&#160;A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.</div>
                         </div>
                         <div class="spell-head war">Bewitching Whispers</div>
                     </li>
@@ -101,6 +133,14 @@
                             <div class="title bld">Chains of Carceri</div>
                             <div class="sub">Prerequisite: 15th level, Pact of the Chain feature</div>
                             <div class="body">You can cast hold monster at will -- targeting a celestial, fiend, or elemental -- without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</div>
+                            <br />
+                            <div class="title bld">Hold Monster</div>
+                            <div class="sub">5th-level enchantment</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 90 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a small, straight piece of iron)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.</div>
                         </div>
                         <div class="spell-head war">Chains of Carceri</div>
                     </li>
@@ -117,6 +157,14 @@
                             <div class="title bld">Dreadful Word</div>
                             <div class="sub">Prerequisite: 7th level</div>
                             <div class="body">You can cast confusion once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
+                            <br />
+                            <div class="title bld">Confusion</div>
+                            <div class="sub">4th-level enchantment</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 90 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (three nut shells)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere contered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.<br />&#160;&#160;An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.<br /><br /><span class="bld">d10&#160;&#160;Behavior</span><br /><span class="bld">1</span>&#160;&#160;The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn.<br /><span class="bld">2-6</span>&#160;&#160;The creature doesn't move or take actions this turn.<br /><span class="bld">7-8</span>&#160;&#160;The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.<br /><span class="bld">9-10</span>&#160;&#160;The creature can act and move normally.<br /><br />&#160;&#160;At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.</div>
                         </div>
                         <div class="spell-head war">Dreadful Word</div>
                     </li>
