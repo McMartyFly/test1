@@ -173,6 +173,14 @@
                             <div class="title bld">Eldritch Sight</div>
                             <div class="sub"></div>
                             <div class="body">You can cast detect magic at will, without expending a spell slot.</div>
+                            <br />
+                            <div class="title bld">Detect Magic</div>
+                            <div class="sub">1st-level divination (ritual)</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 10 minutes</div>
+                            <div class="body">For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.<br />&#160;&#160;The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</div>
                         </div>
                         <div class="spell-head war">Eldritch Sight</div>
                     </li>
@@ -197,6 +205,14 @@
                             <div class="title bld">Fiendish Vigor</div>
                             <div class="sub"></div>
                             <div class="body">You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.</div>
+                            <br />
+                            <div class="title bld">False Life</div>
+                            <div class="sub">1st-level necromancy</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a small amount of alcohol or distilled spirits)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body">Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head war">Fiendish Vigor</div>
                     </li>
@@ -206,13 +222,13 @@
                             <div class="sub"></div>
                             <div class="body">You can use your action to touch a willing humanioid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn.<br />While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.</div>
                         </div>
-                        <div class="spell-head war">Gze of Two Minds</div>
+                        <div class="spell-head war">Gaze of Two Minds</div>
                     </li>
                     <li>
                         <div class="spell-detail">
                             <div class="title bld">Lifedrinker</div>
                             <div class="sub">Prerequisite: 12th level, Pact of the Blade feature</div>
-                            <div class="body">When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your CHarisma modifier (minimum 1).</div>
+                            <div class="body">When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).</div>
                         </div>
                         <div class="spell-head war">Lifedrinker</div>
                     </li>
@@ -221,6 +237,14 @@
                             <div class="title bld">Mask of Many Faces</div>
                             <div class="sub"></div>
                             <div class="body">You can cast disguise self at will, without expending a spell slot.</div>
+                            <br />
+                            <div class="title bld">Disguise Self</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body">You make yourself -- including your clothing, armor, weapons, and other belongings on your person -- look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't  change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.<br />&#160;&#160;The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.<br />&#160;&#160;To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.</div>
                         </div>
                         <div class="spell-head war">Mask of Many Faces</div>
                     </li>
@@ -229,6 +253,14 @@
                             <div class="title bld">Master of Myriad Forms</div>
                             <div class="sub">Prerequisite: 15th level</div>
                             <div class="body">You can cast alter self at will, without expending a spell slot.</div>
+                            <br />
+                            <div class="title bld">Alter Self</div>
+                            <div class="sub">2nd-level transmutation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 hour</div>
+                            <div class="body">You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.<br />&#160;&#160;<span class="bld">Aquatic Adaptation.</span> You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.<br />&#160;&#160;<span class="bld">Change Appearance.</span> You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing charactersitics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stas the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.<br />&#160;&#160;<span class="bld">Natural Weapons.</span> You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.</div>
                         </div>
                         <div class="spell-head war">Master of Myriad Forms</div>
                     </li>
@@ -237,6 +269,14 @@
                             <div class="title bld">Minions of Chaos</div>
                             <div class="sub">Prerequisite: 9th level</div>
                             <div class="body">You can cast conjure elemental once using a warlock spell slot. You can't do so again until you finish a long rest.</div>
+                            <br />
+                            <div class="title bld">Conjure Elemental</div>
+                            <div class="sub">7th-level conjuration</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 90 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 hour</div>
+                            <div class="body">You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it. For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.<br />&#160;&#160;The elemental is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.<br />&#160;&#160;If your concentration is broken, the elemental doesn't disappear. Instead, you lose control of the elemental, it becomes hostile toward you and your companions, and it might attack. An uncontrolled elemental can't be dismissed by you, and it disappears 1 hour after you summoned it.<br />&#160;&#160;The DM has the elemental's statistics.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.</div>
                         </div>
                         <div class="spell-head war">Minions of Chaos</div>
                     </li>
@@ -245,6 +285,14 @@
                             <div class="title bld">Mire the Mind</div>
                             <div class="sub">Prerequisite: 5th level</div>
                             <div class="body">You can cast slow once using a warlock spell slsot. You can't do again until you finish a long rest.</div>
+                            <br />
+                            <div class="title bld">Slow</div>
+                            <div class="sub">3rd-level transmutation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> 120 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a drop of molasses)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.<br />&#160;&#160;An affected target's speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.<br />&#160;&#160;If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.<br />&#160;&#160;A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.</div>
                         </div>
                         <div class="spell-head war">Mire the Mind</div>
                     </li>
@@ -253,6 +301,14 @@
                             <div class="title bld">Misty Visions</div>
                             <div class="sub"></div>
                             <div class="body">You can cast silent image at will, without expending a spell slot or material components.</div>
+                            <br />
+                            <div class="title bld">Silent Image</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body"></div>
                         </div>
                         <div class="spell-head war">Misty Visions</div>
                     </li>
@@ -269,6 +325,14 @@
                             <div class="title bld">Otherworldly Leap</div>
                             <div class="sub">Prerequisite: 9th level</div>
                             <div class="body">You can cast jump on yourself at will, without expending a spell slot or material components.</div>
+                            <br />
+                            <div class="title bld">Disguise Self</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body"></div>
                         </div>
                         <div class="spell-head war">Otherworldly Leap</div>
                     </li>
@@ -276,7 +340,7 @@
                         <div class="spell-detail">
                             <div class="title bld">Repelling Blast</div>
                             <div class="sub">Prerequisite: eldritch blast cantrip</div>
-                            <div class="body">When you hit a creature with eldritch blasat, you can push the creature up to 10 feet away from you in a straight line.</div>
+                            <div class="body">When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.</div>
                         </div>
                         <div class="spell-head war">Repelling Blast</div>
                     </li>
@@ -285,6 +349,14 @@
                             <div class="title bld">Sculptor of Flesh</div>
                             <div class="sub">Prerequisite: 7th level</div>
                             <div class="body">You can cast polymorph once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
+                            <br />
+                            <div class="title bld">Disguise Self</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body"></div>
                         </div>
                         <div class="spell-head war">Sculptor of Flesh</div>
                     </li>
@@ -293,6 +365,14 @@
                             <div class="title bld">Sign of Ill Omen</div>
                             <div class="sub">Prerequisite: 5th level</div>
                             <div class="body">You can cast bestow curse once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
+                            <br />
+                            <div class="title bld">Disguise Self</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body"></div>
                         </div>
                         <div class="spell-head war">Sign of Ill Omen</div>
                     </li>
@@ -301,6 +381,14 @@
                             <div class="title bld">Thief of Five Fates</div>
                             <div class="sub"></div>
                             <div class="body">You can cast bane once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
+                            <br />
+                            <div class="title bld">Disguise Self</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body"></div>
                         </div>
                         <div class="spell-head war">Thief of Five Fates</div>
                     </li>
@@ -317,6 +405,14 @@
                             <div class="title bld">Visions of Distant Realms</div>
                             <div class="sub">Prerequisite: 15th level</div>
                             <div class="body">You can cast arcane eye at will, without expending a spell slot.</div>
+                            <br />
+                            <div class="title bld">Disguise Self</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body"></div>
                         </div>
                         <div class="spell-head war">Visions of Distant Realms</div>
                     </li>
@@ -333,6 +429,14 @@
                             <div class="title bld">Whispers of the Grave</div>
                             <div class="sub">Prerequisite: 9th level</div>
                             <div class="body">You can cast speak with dead at will, without expending a spell slot.</div>
+                            <br />
+                            <div class="title bld">Disguise Self</div>
+                            <div class="sub">1st-level illusion</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
+                            <div class="body"></div>
                         </div>
                         <div class="spell-head war">Whispers of the Grave</div>
                     </li>
@@ -362,7 +466,7 @@
                         <div class="spell-detail">
                             <div class="title bld">Chill Touch</div>
                             <div class="sub">Necromancy cantrip</div>
-                            <div class="casting"><span class="bld">Casting Time:<span> 1 action</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
                             <div class="range"><span class="bld">Range:</span> 120 feet</div>
                             <div class="components"><span class="bld">Components:</span> V, S</div>
                             <div class="duration"><span class="bld">Duration:</span> 1 round</div>
@@ -1165,13 +1269,13 @@
                     </li>
                     <li>
                         <div class="spell-detail">
-                            <div class="title bld"></div>
-                            <div class="sub"></div>
-                            <div class="casting"><span class="bld">Casting Time:</span></div>
-                            <div class="ranger"><span class="bld">Range:</span></div>
-                            <div class="components"><span class="bld">Components:</span></div>
-                            <div class="duration"><span class="bld">Duration:</span></div>
-                            <div class="body"></div>
+                            <div class="title bld">Thunderwave</div>
+                            <div class="sub">1st-level evocation</div>
+                            <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                            <div class="ranger"><span class="bld">Range:</span> Self (15-foot cube)</div>
+                            <div class="components"><span class="bld">Components:</span> V, S</div>
+                            <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                            <div class="body">A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.<br />&#160;&#160;In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level of higher, the damage increases by 1d8 for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head wiz">Thunderwave</div>
                     </li>
