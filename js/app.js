@@ -77,8 +77,7 @@ $( document ).ready(function() {
                 });
             }
             $(this).toggleClass('on');
-            
-            
+            $(this).siblings('.spell-detail').toggleClass('open');
         });
     };
     
