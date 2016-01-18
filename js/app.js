@@ -96,7 +96,7 @@ $( document ).ready(function() {
                 slimmed = 1;
             } else {
                 
-                $('.spell-head').removeClass('slim');
+                $('.spell-head').parent('li').removeClass('slim');
                 
                 slimmed = 0;
             }
