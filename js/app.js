@@ -6,8 +6,19 @@ $( document ).ready(function() {
         $('.main').on('click', function(){
             if($(this).hasClass('active')){
                 $(this).siblings('.index-wrap').find('.index').removeClass('open');
+                $(this).siblings('.index-wrap').css({'height': '0px'});
+                
                 $(this).siblings('.page').removeClass('show');
                 $(this).siblings('.page').find('.spell-head').removeClass('active');
+            } else {
+                var maxH = $(this).siblings('.index-wrap').css({ 'height': 'auto'}).height();
+                $(this).siblings('.index-wrap').css({'height': '0px'});
+                // $(this).siblings('.spell-detail').css({'height': maxH });
+                $(this).siblings('.index-wrap').animate({
+                    height: maxH
+                }, 0, function(){
+                
+                });
             };
             
             $(this).siblings().toggleClass('open');
@@ -67,7 +78,7 @@ $( document ).ready(function() {
             }
             $(this).toggleClass('on');
             
-            $(this).siblings('.spell-detail').toggleClass('open');
+            
         });
     };
     
@@ -75,9 +86,6 @@ $( document ).ready(function() {
         $('.stack').on('click', function(){
             $('.slider').toggleClass('right');
             if (slimmed == 0){
-                
-                
-                
                 
                 $('.spell-head').each(function(){
                     $(this).addClass('slim');
@@ -88,8 +96,6 @@ $( document ).ready(function() {
                 
                 slimmed = 1;
             } else {
-                
-                
                 
                 $('.spell-head').removeClass('slim');
                 

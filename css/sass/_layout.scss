@@ -95,6 +95,7 @@ body {
                 transition: all 0.5s ease;
                 
                 border-radius: 10px;
+                box-shadow: 0 3px 5px 2px rgba(0,0,0,0.4);
                 font-size: 50px;
                 letter-spacing: 15px;
                 margin: 0 auto 3px auto;
@@ -104,16 +105,20 @@ body {
                 text-transform: uppercase;
                 width: 88%;
                 
+                &.active {
+                    box-shadow: 0 9px 5px 2px rgba(0,0,0,0.4);
+                }
+                
                 &.war {
                     background: #4d0000;
-                    box-shadow: 0 0 5px 2px #999;
+                    
                     color: #9900cc;
                     letter-spacing: 3px;
                     text-shadow: 0 0 1px #000;
                     
                     &.active {
                         color: #ff00ff;
-                        box-shadow: 0 9px 5px 2px #999;
+                        
                         font-size: 55px;
                         margin: -12px auto 3px auto;
                         text-shadow: 0 0 18px #ff00ff;
@@ -123,13 +128,11 @@ body {
                 
                 &.wiz {
                     background: #666699;
-                    box-shadow: 0 0 5px 2px #999;
                     color: #b2b300;
                     text-shadow: 0 0 1px #000;
                     
                     &.active {
                         color: #ffff00;
-                        box-shadow: 0 9px 5px 2px #999;
                         font-size: 55px;
                         margin: -12px auto 3px auto;
                         text-shadow: 0 0 18px #ffff00;
@@ -146,14 +149,12 @@ body {
                 height: 0px;
                 
                 overflow: hidden;
+                padding: 0 0 0 0;
                 
                 &.open {
-                    height: 171px;
-                    
-                    &.war {
-                        height: 252px;
-                    }
+                    padding: 0 0 10px 0;
                 }
+                
                 
                 .index-row {
                     position: relative;
