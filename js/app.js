@@ -87,9 +87,9 @@ $( document ).ready(function() {
             if (slimmed == 0){
                 
                 $('.spell-head').each(function(){
-                    $(this).addClass('slim');
+                    $(this).parent('li').addClass('slim');
                     if($(this).siblings('.spell-detail').hasClass('open')){
-                        $(this).removeClass('slim');
+                        $(this).parent('li').removeClass('slim');
                     }
                 });
                 
