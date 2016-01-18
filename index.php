@@ -305,10 +305,10 @@
                             <div class="title bld">Silent Image</div>
                             <div class="sub">1st-level illusion</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
-                            <div class="ranger"><span class="bld">Range:</span> Self</div>
-                            <div class="components"><span class="bld">Components:</span> V, S</div>
-                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
-                            <div class="body"></div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a bit of fleece)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 10 minutes</div>
+                            <div class="body">You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.<br />&#160;&#160;You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.<br />&#160;&#160;Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Int</div>
                         </div>
                         <div class="spell-head war">Misty Visions</div>
                     </li>
@@ -326,13 +326,13 @@
                             <div class="sub">Prerequisite: 9th level</div>
                             <div class="body">You can cast jump on yourself at will, without expending a spell slot or material components.</div>
                             <br />
-                            <div class="title bld">Disguise Self</div>
-                            <div class="sub">1st-level illusion</div>
+                            <div class="title bld">Jump</div>
+                            <div class="sub">1st-level transmutation</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
-                            <div class="ranger"><span class="bld">Range:</span> Self</div>
-                            <div class="components"><span class="bld">Components:</span> V, S</div>
-                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
-                            <div class="body"></div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a grasshopper's hind leg)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 1 minute</div>
+                            <div class="body">You touch a creature. The creature's jump distance is tripled until the spell ends.</div>
                         </div>
                         <div class="spell-head war">Otherworldly Leap</div>
                     </li>
@@ -350,13 +350,13 @@
                             <div class="sub">Prerequisite: 7th level</div>
                             <div class="body">You can cast polymorph once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
                             <br />
-                            <div class="title bld">Disguise Self</div>
-                            <div class="sub">1st-level illusion</div>
+                            <div class="title bld">Polymorph</div>
+                            <div class="sub">4th-level transmutation</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
-                            <div class="ranger"><span class="bld">Range:</span> Self</div>
-                            <div class="components"><span class="bld">Components:</span> V, S</div>
-                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
-                            <div class="body"></div>
+                            <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a caterpillar cocoon)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 hour</div>
+                            <div class="body">This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. A shapechanger automatically succeeds on this saving throw.<br />&#160;&#160;The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating.) The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.<br />&#160;&#160;The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.<br />&#160;&#160;The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speach.<br />&#160;&#160;The target's gear melds into the new form. The creature can't activate, use, weild, or otherwise benefit from any of its equipment.</div>
                         </div>
                         <div class="spell-head war">Sculptor of Flesh</div>
                     </li>
@@ -366,13 +366,13 @@
                             <div class="sub">Prerequisite: 5th level</div>
                             <div class="body">You can cast bestow curse once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
                             <br />
-                            <div class="title bld">Disguise Self</div>
-                            <div class="sub">1st-level illusion</div>
+                            <div class="title bld">Bestow Curse</div>
+                            <div class="sub">3rd-level necromancy</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
-                            <div class="ranger"><span class="bld">Range:</span> Self</div>
+                            <div class="ranger"><span class="bld">Range:</span> Touch</div>
                             <div class="components"><span class="bld">Components:</span> V, S</div>
-                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
-                            <div class="body"></div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:<br /><br />- Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.<br />- While cursed, the target has disadvantage on attack rolls against you.<br />-While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.<br />- While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.<br /><br />A remove curse spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.</div>
                         </div>
                         <div class="spell-head war">Sign of Ill Omen</div>
                     </li>
@@ -382,13 +382,13 @@
                             <div class="sub"></div>
                             <div class="body">You can cast bane once using a warlock spell slot.<br />You can't do so again until you finish a long rest.</div>
                             <br />
-                            <div class="title bld">Disguise Self</div>
-                            <div class="sub">1st-level illusion</div>
+                            <div class="title bld">Bane</div>
+                            <div class="sub">1st-level enchantment</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
-                            <div class="ranger"><span class="bld">Range:</span> Self</div>
-                            <div class="components"><span class="bld">Components:</span> V, S</div>
-                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
-                            <div class="body"></div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a drop of blood)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 minute</div>
+                            <div class="body">Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number folled from the attack roll or saving throw.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</div>
                         </div>
                         <div class="spell-head war">Thief of Five Fates</div>
                     </li>
@@ -406,13 +406,13 @@
                             <div class="sub">Prerequisite: 15th level</div>
                             <div class="body">You can cast arcane eye at will, without expending a spell slot.</div>
                             <br />
-                            <div class="title bld">Disguise Self</div>
+                            <div class="title bld">Arcane Eye</div>
                             <div class="sub">1st-level illusion</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
-                            <div class="ranger"><span class="bld">Range:</span> Self</div>
-                            <div class="components"><span class="bld">Components:</span> V, S</div>
-                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
-                            <div class="body"></div>
+                            <div class="ranger"><span class="bld">Range:</span> 30 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (a bit of bat fur)</div>
+                            <div class="duration"><span class="bld">Duration:</span> Concentration, up to 1 hour</div>
+                            <div class="body">You create an invisible, magical eye within range that hovers in the air for the duration.<br />&#160;&#160;You mentally receive visual information from the eye, which has normal vision and darkvision out of 30 feet. THe eye can look in every direction.<br />&#160;&#160;As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.</div>
                         </div>
                         <div class="spell-head war">Visions of Distant Realms</div>
                     </li>
@@ -430,13 +430,13 @@
                             <div class="sub">Prerequisite: 9th level</div>
                             <div class="body">You can cast speak with dead at will, without expending a spell slot.</div>
                             <br />
-                            <div class="title bld">Disguise Self</div>
-                            <div class="sub">1st-level illusion</div>
+                            <div class="title bld">Speak With Dead</div>
+                            <div class="sub">3rd-level necromancy</div>
                             <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
-                            <div class="ranger"><span class="bld">Range:</span> Self</div>
-                            <div class="components"><span class="bld">Components:</span> V, S</div>
-                            <div class="duration"><span class="bld">Duration:</span> 1 hour</div>
-                            <div class="body"></div>
+                            <div class="ranger"><span class="bld">Range:</span> 10 feet</div>
+                            <div class="components"><span class="bld">Components:</span> V, S, M (burning incense)</div>
+                            <div class="duration"><span class="bld">Duration:</span> 10 minutes</div>
+                            <div class="body">You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead. The spell fails if the corpse was the target of this spell within the last 10 days.<br />&#160;&#160;Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.</div>
                         </div>
                         <div class="spell-head war">Whispers of the Grave</div>
                     </li>
