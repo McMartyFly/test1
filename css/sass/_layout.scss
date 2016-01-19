@@ -1,12 +1,12 @@
 body {
     overflow: hidden;
     
-    @media screen and (max-width: 900px) {
+    
         padding: 0 0 10px 0;
         
         
         .slide-wrap {
-            
+            width: 100%;
             
             
             .slide {
@@ -389,5 +389,5 @@ body {
             }
             
         }
-    }//end media query
+    
 }
