@@ -111,6 +111,11 @@ $( document ).ready(function() {
         });
     };
     
+    function slick(){
+        $('.slide-wrap').slick();
+    };
+    
+    slick();
     openList();
     openPage();
     openSpell();
