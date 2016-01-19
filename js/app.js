@@ -113,8 +113,7 @@ $( document ).ready(function() {
     
     function slick(){
         $('.slide-wrap').slick({
-            slidesToShow: 1,
-            slidesToScroll: 1
+            
         });
     };
     
