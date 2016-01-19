@@ -2,6 +2,14 @@ body {
     @media screen and (max-width: 900px) {
         padding: 0 0 10px 0;
         
+        .slick-wrap {
+            max-width: 500px;
+            
+            .slide {
+                width: 95%;
+            }
+        }
+        
         .stack {
             background: #aaa;
             border-radius: 25px;
