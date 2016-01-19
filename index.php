@@ -16,7 +16,7 @@
     <body>
         <div class="slick-wrap">
             <div class="slide">
-                test
+                test. swipe me
             </div>
             
             <div class="slide">
