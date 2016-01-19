@@ -113,7 +113,7 @@ $( document ).ready(function() {
     
     function slick(){
         $('.slick-wrap').slick({
-            adaptiveHeight: true
+            
         });
     };
     
