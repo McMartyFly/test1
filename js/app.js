@@ -118,7 +118,7 @@ $( document ).ready(function() {
         });
     };
     
-    slick();
+    // slick();
     openList();
     openPage();
     openSpell();

@@ -3,11 +3,9 @@ body {
         padding: 0 0 10px 0;
         
         .slick-wrap {
-            max-width: 500px;
             
-            .slide {
-                width: 95%;
-            }
+            
+            
         }
         
         .stack {
@@ -17,7 +15,7 @@ body {
             height: 70px;
             margin: 20px auto 5px;
             position: relative;
-            width: 95%;
+            width: 70%;
             
             .slider {
                 -webkit-transition: all 0.7s ease;

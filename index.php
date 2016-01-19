@@ -15,8 +15,8 @@
     </head>
     <body>
         <div class="slide-wrap">
-            <div class="slide">
-                test
+            <div class="slide test">
+                
             </div>
             
             <div class="slide">
