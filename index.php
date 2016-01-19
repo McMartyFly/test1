@@ -6,8 +6,8 @@
         <script type="text/javascript" src="/js/app.js"></script>
         <script type="text/javascript" src="/slick/slick.js"></script>
         
-        <link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
-        <link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
+        <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
         
         <link rel="stylesheet" type="text/css" href="/css/stylesheets/screen.css"/>
         
