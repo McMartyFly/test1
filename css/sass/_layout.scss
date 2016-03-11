@@ -183,6 +183,23 @@ body {
                     }
                 }
                 
+                &.dru {
+                    background: #264d00;
+                    
+                    color: #00cc00;
+                    letter-spacing: 3px;
+                    text-shadow: 0 0 1px #000;
+                    
+                    &.active {
+                        color: #66ff66;
+                        
+                        font-size: 55px;
+                        margin: -12px auto 3px auto;
+                        text-shadow: 0 0 18px #66ff66;
+                        width: 95%;
+                    }
+                }
+                
                 &.fig {
                     background: #806000;
                     
@@ -277,6 +294,12 @@ body {
                             text-shadow: 0 0 1px #000;
                         }
                         
+                        &.dru {
+                            background: #264d00;
+                            color: #00cc00;
+                            text-shadow: 0 0 1px #000;
+                        }
+                        
                         
                     }
                     
@@ -306,6 +329,13 @@ body {
                                     box-shadow: 0 2px 5px 2px #aaa;
                                     color: #ffcc80;
                                     text-shadow: 0 0 18px #ffcc80;
+                                    top: 8px;
+                                }
+                                
+                                &.dru {
+                                    box-shadow: 0 2px 5px 2px #aaa;
+                                    color: #66ff66;
+                                    text-shadow: 0 0 18px #66ff66;
                                     top: 8px;
                                 }
                             }
@@ -341,7 +371,12 @@ body {
                                     top: 8px;
                                 }
                                 
-                                
+                                &.dru {
+                                    box-shadow: 0 2px 5px 2px #aaa;
+                                    color: #66ff66;
+                                    text-shadow: 0 0 18px #66ff66;
+                                    top: 8px;
+                                }
                             }
                         }
                     }
@@ -371,6 +406,9 @@ body {
                 }
                 &.fig {
                     background: #806000;
+                }
+                &.dru {
+                    background: #264d00;
                 }
                 
                 &.show {
@@ -425,6 +463,15 @@ body {
                             &.on {
                                 color: #ffcc80;
                                 text-shadow: 0 0 18px #ffcc80;
+                            }
+                        }
+                        
+                        &.dru {
+//                            box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
+                            color: #00cc00;
+                            &.on {
+                                color: #66ff66;
+                                text-shadow: 0 0 18px #66ff66;
                             }
                         }
                     }

@@ -1424,6 +1424,83 @@
                     </div>
                     
                     <div class="outer-wrap">
+                        <div class="main dru">Druid</div>
+                        <div class="index-wrap">
+                            <div class="index-row top">
+                                <div class="index dru cantrip">C</div>
+                                <div class="index dru one">1</div>
+                                <div class="index dru">2</div>
+                                <div class="index dru">3</div>
+                                <div class="index dru">4</div>
+                                <div class="clb"></div>
+                            </div>
+                            <div class="index-row bottom">
+                                <div class="index dru">5</div>
+                                <div class="index dru">6</div>
+                                <div class="index dru">7</div>
+                                <div class="index dru">8</div>
+                                <div class="index dru">9</div>
+                                <div class="clb"></div>
+                            </div>
+                        </div>
+
+                        <ul class="cantrip page dru">
+                            <li>
+                                <div class="spell-head dru">Shillelagh</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Shillelagh</div>
+                                    <div class="sub">transmutation cantrip</div>
+                                    <div class="casting"><span class="bld">Casting Time:</span> 1 bonus action</div>
+                                    <div class="range"><span class="bld">Range:</span> Touch</div>
+                                    <div class="components"><span class="bld">Components:</span> V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)</div>
+                                    <div class="duration"><span class="bld">Duration:</span> 1 minute</div>
+                                    <div class="body">The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head dru">Thorn Whip</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Thorn Whip</div>
+                                    <div class="sub">Transmutation cantrip</div>
+                                    <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                                    <div class="range"><span class="bld">Range:</span> 30 feet</div>
+                                    <div class="components"><span class="bld">Components:</span> V, S, M (the stem of a plant with thorns)</div>
+                                    <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                                    <div class="body">You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.<br />&#160;&#160;This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</div>
+                                </div>
+                            </li>
+                        </ul>
+
+                        <ul class="one page dru">
+                            <li>
+                                <div class="spell-head dru">Cure Wounds</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Cure Wounds</div>
+                                    <div class="sub">1st-level evocation</div>
+                                    <div class="casting"><span class="bld">Casting Time:</span> 1 action</div>
+                                    <div class="ranger"><span class="bld">Range:</span> Touch</div>
+                                    <div class="components"><span class="bld">Components:</span> V, S</div>
+                                    <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                                    <div class="body">A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head dru">Healing Word</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Healing Word</div>
+                                    <div class="sub">1st-level evocation</div>
+                                    <div class="casting"><span class="bld">Casting Time:</span> 1 bonus action</div>
+                                    <div class="ranger"><span class="bld">Range:</span> 60 feet</div>
+                                    <div class="components"><span class="bld">Components:</span> V</div>
+                                    <div class="duration"><span class="bld">Duration:</span> Instantaneous</div>
+                                    <div class="body">A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.<br />&#160;&#160;<span class="bld">At Higher Levels.</span> When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.</div>
+                                </div>
+                            </li>
+                        </ul>
+        
+                    </div>
+                    
+                    <div class="outer-wrap">
                         <div class="main fig">Fighter</div>
                         <div class="index-wrap fig">
                             <div class="index-row top">
