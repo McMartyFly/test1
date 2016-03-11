@@ -83,7 +83,7 @@ $( document ).ready(function() {
     
     function slim(){
         $('.stack').on('click', function(){
-            $('.slider').toggleClass('right');
+            $(this).toggleClass('right');
             if (slimmed == 0){
                 
                 $('.spell-head').each(function(){
@@ -117,7 +117,7 @@ $( document ).ready(function() {
         });
     };
     
-    slick();
+    // slick();
     openList();
     openPage();
     openSpell();

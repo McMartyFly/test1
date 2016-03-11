@@ -15,16 +15,26 @@
     </head>
     <body>
         <div class="slick-wrap">
-            <div class="slide">
+            <!-- <div class="slide">
                 test. swipe me
-            </div>
+            </div> -->
             
             <div class="slide">
                 <div class="stack">
-                    <div class="slider">
-                        <div class="eye top"></div>
-                        <div class="eye mid"></div>
-                        <div class="eye bot"></div>
+                    <div class="art">
+                        <div class="box one"></div>
+                        <div class="box two"></div>
+                        <div class="box three"></div>
+                        <div class="box four"></div>
+                        <div class="box five"></div>
+                        <div class="box six"></div>
+                    </div>
+                    
+                    <div class="spread presser">
+                        <div class="eye"></div>
+                    </div>
+                    <div class="shut presser">
+                        <div class="eye"></div>
                     </div>
                 </div>
                 <div class="spell-list">
@@ -1412,6 +1422,136 @@
                         </ul>
         
                     </div>
+                    
+                    <div class="outer-wrap">
+                        <div class="main fig">Fighter</div>
+                        <div class="index-wrap fig">
+                            <div class="index-row top">
+                                <div class="clb"></div>
+                            </div>
+                            <div class="index-row bottom">
+                                <div class="index fig invocation">Maneuvers</div>
+                                <div class="clb"></div>
+                            </div>
+                        </div>
+                        <ul class="invocation page fig">
+                            <li>
+                                <div class="spell-head fig">Commander's Strike</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Commander's Strike</div>
+                                    <div class="body">When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.</div>
+                                </div>
+            
+                            </li>
+                        
+                            <li>
+                                <div class="spell-head fig">Disarming Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Disarming Attack</div>
+                                    <div class="body">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that its's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Distracting Strike</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Distracting Strike</div>
+                                    <div class="body">When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Evasive Footwork</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Evasive Footwork</div>
+                                    <div class="body">When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Feinting Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Feinting Attack</div>
+                                    <div class="body">You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack's damage roll.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Goading Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Goading Attack</div>
+                                    <div class="body">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Lunging Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Lunging Attack</div>
+                                    <div class="body">When you make a melee weapon attack onyour turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Maneuvering Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Maneuvering Attack</div>
+                                    <div class="body">When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Menacing Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Menacing Attack</div>
+                                    <div class="body">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Parry</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Parry</div>
+                                    <div class="body">When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Precision Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Precision Attack</div>
+                                    <div class="body">When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Pushing Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Pushing Attack</div>
+                                    <div class="body">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Rally</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Rally</div>
+                                    <div class="body">On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Riposte</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Riposte</div>
+                                    <div class="body">When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Sweeping Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Sweeping Attack</div>
+                                    <div class="body">When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.</div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="spell-head fig">Trip Attack</div>
+                                <div class="spell-detail">
+                                    <div class="title bld">Trip Attack</div>
+                                    <div class="body">When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.</div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    
                 </div>
             </div>
         </div>

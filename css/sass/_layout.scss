@@ -18,69 +18,113 @@ body {
         
         
         .stack {
-            background: #aaa;
-            border-radius: 25px;
-            box-shadow: 0px -3px 1px 1px rgba(0,0,0,0.5);
+            
+            
             height: 70px;
             margin: 20px auto 5px;
             position: relative;
             width: 70%;
             
-            .slider {
-                -webkit-transition: all 0.7s ease;
-                -moz-transition: all 0.7s ease;
-                -o-transition: all 0.7s ease;
-                transition: all 0.7s ease;
+            .presser {
                 
-                background: #e6e6e6;
-                border-radius: 25px;
-                box-shadow: 0px 14px 12px -4px rgba(0,0,0,0.5);
+                border: solid 1px #e6e6e6;
+                border-radius: 5px;
+                box-shadow: 0 3px 5px 2px rgba(0,0,0,0.4);
                 height: 70px;
-                left: 0px;
                 position: absolute;
-                top: -10px;
-                width: 25%;
+                width: 70px;
                 
-                .eye {
-                    -webkit-transition: all 0.7s ease;
-                    -moz-transition: all 0.7s ease;
-                    -o-transition: all 0.7s ease;
-                    transition: all 0.7s ease;
+                &.spread {
+                    left: 0;
                     
-                    background: #fff;
-                    border-radius: 50%;
-                    height: 10px;
-                    margin: 7px auto;
-                    position: relative;
-                    width: 55px;
+                    .eye {
+                        background: #00ff00;
+                    }
+                }
+
+                &.shut {
+                    right: 0;
                     
-                    &.top {
-                        top: 3px;
-                    }
-                    &.mid {
-                        top: 6px;
-                    }
-                    &.bot {
-                        top: 9px;
+                    .eye {
+                        background: #e6e6e6;
                     }
                 }
                 
-                &.right {
-                    left: 75%;
+                .eye {
                     
-                    .eye {
-                        
-                        &.top {
-                            top: 15px;
-                        }
-                        &.mid {
-                            top: 6px;
-                        }
-                        &.bot {
-                            top: -3px;
+                    border-radius: 5px;
+                    height: 20px;
+                    left: 25px;
+                    position: absolute;
+                    top: 25px;
+                    width: 20px;
+                    
+                    -webkit-transition: all 0.5s ease;
+                    -moz-transition: all 0.5s ease;
+                    -o-transition: all 0.5s ease;
+                    transition: all 0.5s ease;
+                    
+                }
+                
+                
+            }
+            
+            &.right {
+                
+                .presser {
+                    &.spread {
+                        .eye {
+                            background: #e6e6e6;
                         }
                     }
+                    &.shut {
+                        .eye {
+                            background: #ff0000;
+                        }
+                    }
+                }
+                
+            }
+            
+            .art {
+                height: 73px;
+                left: 50%;
+                margin-left: -36%;
+                position: absolute;
+                width: 72%;
+                
+                .box {
+                    background: #333;
+                    border-radius: 3px;
+                    height: 10px;
+                    left: 0px;
+                    position: absolute;
+                    width: 70px;
                     
+                    &.one {
+                        top: 5%;
+                    }
+                    &.two {
+                        top: 44%;
+                    }
+                    &.three {
+                        top: 81%;
+                    }
+                    &.four {
+                        left: auto;
+                        right: 0px;
+                        top: 60%;
+                    }
+                    &.five {
+                        left: auto;
+                        right: 0px;
+                        top: 44%;
+                    }
+                    &.six {
+                        left: auto;
+                        right: 0px;
+                        top: 28%;
+                    }
                 }
             }
             
@@ -137,6 +181,23 @@ body {
                         font-size: 55px;
                         margin: -12px auto 3px auto;
                         text-shadow: 0 0 18px #ff00ff;
+                        width: 95%;
+                    }
+                }
+                
+                &.fig {
+                    background: #806000;
+                    
+                    color: #ffad33;
+                    letter-spacing: 3px;
+                    text-shadow: 0 0 1px #000;
+                    
+                    &.active {
+                        color: #ffcc80;
+                        
+                        font-size: 55px;
+                        margin: -12px auto 3px auto;
+                        text-shadow: 0 0 18px #ffcc80;
                         width: 95%;
                     }
                 }
@@ -212,6 +273,12 @@ body {
                             text-shadow: 0 0 1px #000;
                         }
                         
+                        &.fig {
+                            background: #806000;
+                            color: #ffad33;
+                            text-shadow: 0 0 1px #000;
+                        }
+                        
                         
                     }
                     
@@ -237,6 +304,12 @@ body {
                                     top: 8px;
                                 }
                                 
+                                &.fig {
+                                    box-shadow: 0 2px 5px 2px #aaa;
+                                    color: #ffcc80;
+                                    text-shadow: 0 0 18px #ffcc80;
+                                    top: 8px;
+                                }
                             }
                         }
                     }
@@ -262,6 +335,14 @@ body {
                                     text-shadow: 0 0 18px #ff00ff;
                                     top: 8px;
                                 }
+                                
+                                &.fig {
+                                    box-shadow: 0 2px 5px 2px #aaa;
+                                    color: #ffcc80;
+                                    text-shadow: 0 0 18px #ffcc80;
+                                    top: 8px;
+                                }
+                                
                                 
                             }
                         }
@@ -289,6 +370,9 @@ body {
                 }
                 &.war {
                     background: #4d0000;
+                }
+                &.fig {
+                    background: #806000;
                 }
                 
                 &.show {
@@ -334,6 +418,15 @@ body {
                             &.on {
                                 color: #ff00ff;
                                 text-shadow: 0 0 18px #ff00ff;
+                            }
+                        }
+                        
+                        &.fig {
+//                            box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
+                            color: #ffad33;
+                            &.on {
+                                color: #ffcc80;
+                                text-shadow: 0 0 18px #ffcc80;
                             }
                         }
                     }
