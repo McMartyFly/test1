@@ -38,7 +38,7 @@ body {
                     left: 0;
                     
                     .eye {
-                        background: #00ff00;
+                        background: #ff9900;
                     }
                 }
 
@@ -79,7 +79,7 @@ body {
                     }
                     &.shut {
                         .eye {
-                            background: #ff0000;
+                            background: #ff9900;
                         }
                     }
                 }
@@ -88,18 +88,16 @@ body {
             
             .art {
                 height: 73px;
-                left: 50%;
-                margin-left: -36%;
                 position: absolute;
-                width: 72%;
+                width: 100%;
                 
                 .box {
-                    background: #333;
+                    background: #666;
                     border-radius: 3px;
                     height: 10px;
                     left: 0px;
                     position: absolute;
-                    width: 70px;
+                    width: 72px;
                     
                     &.one {
                         top: 5%;
